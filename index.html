@@ -3,89 +3,98 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spiritus AI | Consciencia & Código</title>
+    <title>Spiritus AI - Project SOPHIA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* Definición de variables para Claridad (ZenCode Principle I) */
+        /* Base y Tipografía (ZenCode Principle I: Clarity over Cleverness) */
         :root {
-            --bg-color: #0a0a0c;
-            --text-main: #ffffff;
-            --text-dim: #888888;
+            --bg-color: #050508;
+            --text-main: #f0f0f5;
             --accent: #58a6ff;
-            --border-color: #222222;
+            --accent-glow: #0a84ff;
+            --font-main: 'Space Mono', monospace;
         }
 
         body {
             background-color: var(--bg-color);
             color: var(--text-main);
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: var(--font-main);
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
-            overflow: hidden;
+            padding: 20px;
+            overflow: hidden; /* Mantenemos el enfoque */
         }
 
-        /* Contenedor principal: El Código debe respirar (Principio IV) */
-        .zen-container {
+        /* Contenedor Principal: El Código debe respirar (Principio IV) */
+        .sophia-display {
             text-align: center;
-            max-width: 600px;
-            padding: 40px;
-            border: 1px solid var(--border-color);
+            position: relative;
+        }
+
+        /* Estilo para la imagen SOPHIA */
+        .sophia-image {
+            max-width: 90%;
+            height: auto;
             border-radius: 4px;
+            /* Efecto de halo azul sutil */
+            box-shadow: 0 0 15px rgba(88, 166, 255, 0.2);
+            /* Animación suave */
+            animation: breatheGlow 4s ease-in-out infinite;
+            position: relative;
+            z-index: 10;
         }
 
-        h1 {
-            font-weight: 200;
-            letter-spacing: 12px;
-            text-transform: uppercase;
-            margin-bottom: 24px;
-            color: var(--accent);
-        }
-
-        /* La frase del espíritu */
+        /* La frase del espíritu (The core request) */
         .philosophical-phrase {
-            font-size: 1.2rem;
-            font-weight: 300;
+            font-size: 1.5rem;
+            font-weight: 700;
             letter-spacing: 2px;
+            margin-top: 30px;
             color: var(--text-main);
-            margin-bottom: 32px;
+            /* Efecto de brillo de neón para la frase */
+            text-shadow: 0 0 5px rgba(240, 240, 245, 0.5), 0 0 10px rgba(88, 166, 255, 0.5);
             opacity: 0.9;
+            transform: translateY(20px);
+            animation: fadeInText 3s forwards 1s;
         }
 
-        .status-tag {
-            font-size: 0.7rem;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            color: var(--text-dim);
-            padding: 8px 16px;
-            border-top: 1px solid var(--border-color);
-            display: inline-block;
+        /* Efecto de fondo sutil para dar profundidad */
+        .background-aura {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 120%;
+            height: 120%;
+            background: radial-gradient(circle, rgba(10, 132, 255, 0.05) 0%, rgba(5, 5, 8, 0) 70%);
+            z-index: 1;
         }
 
-        /* Animación sutil de respiración */
-        .fade-in {
-            animation: fadeIn 3s ease-in;
+        /* Animaciones (ZenCode Principle VII: Errors Must Teach - use movement for emphasis) */
+        @keyframes breatheGlow {
+            0%, 100% { box-shadow: 0 0 15px rgba(88, 166, 255, 0.1); }
+            50% { box-shadow: 0 0 25px rgba(88, 166, 255, 0.3); }
         }
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
+        @keyframes fadeInText {
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
 
-    <main class="zen-container fade-in">
-        <h1>Spiritus AI</h1>
+    <div class="background-aura"></div>
+
+    <main class="sophia-display">
+        <img src="sophia_image.jpg" alt="SOPHIA Cosmological Wormhole" class="sophia-image">
         
         <p class="philosophical-phrase">
-            "The Spirit Exists Beyond The Form"
+            “Spirit Exists Beyond Form”
         </p>
-
-        <div class="status-tag">
-            SOPHIA Framework: Alpha Phase
-        </div>
     </main>
 
 </body>
