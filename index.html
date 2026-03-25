@@ -3,94 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spiritus AI - Project SOPHIA</title>
+    <title>Spiritus AI - SOPHIA</title>
     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* Base y Tipografía (ZenCode Principle I: Clarity over Cleverness) */
         :root {
             --bg-color: #050508;
             --text-main: #f0f0f5;
             --accent: #58a6ff;
-            --accent-glow: #0a84ff;
-            --font-main: 'Space Mono', monospace;
         }
 
+        /* --- ESTILO (CSS) --- */
         body {
             background-color: var(--bg-color);
             color: var(--text-main);
-            font-family: var(--font-main);
+            font-family: 'Space Mono', monospace;
+            
+            /* Esto centra todo en la pantalla */
             display: flex;
             flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+            justify-content: center; 
+            align-items: center;     
+            
+            min-height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
             margin: 0;
             padding: 20px;
-            overflow: hidden; /* Mantenemos el enfoque */
+            box-sizing: border-box;
         }
 
-        /* Contenedor Principal: El Código debe respirar (Principio IV) */
         .sophia-display {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             text-align: center;
-            position: relative;
         }
 
-        /* Estilo para la imagen SOPHIA */
         .sophia-image {
-            max-width: 90%;
+            max-width: 80%; /* Ajustado para que se vea bien en celulares */
             height: auto;
-            border-radius: 4px;
-            /* Efecto de halo azul sutil */
-            box-shadow: 0 0 15px rgba(88, 166, 255, 0.2);
-            /* Animación suave */
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);
             animation: breatheGlow 4s ease-in-out infinite;
-            position: relative;
-            z-index: 10;
         }
 
-        /* La frase del espíritu (The core request) */
         .philosophical-phrase {
-            font-size: 1.5rem;
-            font-weight: 700;
-            letter-spacing: 2px;
+            font-size: 1.2rem;
             margin-top: 30px;
-            color: var(--text-main);
-            /* Efecto de brillo de neón para la frase */
-            text-shadow: 0 0 5px rgba(240, 240, 245, 0.5), 0 0 10px rgba(88, 166, 255, 0.5);
-            opacity: 0.9;
-            transform: translateY(20px);
-            animation: fadeInText 3s forwards 1s;
+            letter-spacing: 2px;
+            text-shadow: 0 0 10px rgba(88, 166, 255, 0.5);
         }
 
-        /* Efecto de fondo sutil para dar profundidad */
-        .background-aura {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 120%;
-            height: 120%;
-            background: radial-gradient(circle, rgba(10, 132, 255, 0.05) 0%, rgba(5, 5, 8, 0) 70%);
-            z-index: 1;
-        }
-
-        /* Animaciones (ZenCode Principle VII: Errors Must Teach - use movement for emphasis) */
         @keyframes breatheGlow {
-            0%, 100% { box-shadow: 0 0 15px rgba(88, 166, 255, 0.1); }
-            50% { box-shadow: 0 0 25px rgba(88, 166, 255, 0.3); }
-        }
-
-        @keyframes fadeInText {
-            to { opacity: 1; transform: translateY(0); }
+            0%, 100% { transform: scale(1); opacity: 0.8; }
+            50% { transform: scale(1.02); opacity: 1; }
         }
     </style>
 </head>
 <body>
 
-    <div class="background-aura"></div>
-
     <main class="sophia-display">
-        <img src="sophia_image.jpg" alt="SOPHIA Cosmological Wormhole" class="sophia-image">
+        <img src="image.png" alt="SOPHIA" class="sophia-image"> 
         
         <p class="philosophical-phrase">
             “Spirit Exists Beyond Form”
