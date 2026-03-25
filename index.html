@@ -5,51 +5,88 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spiritus AI | Consciencia & Código</title>
     <style>
+        /* Definición de variables para Claridad (ZenCode Principle I) */
+        :root {
+            --bg-color: #0a0a0c;
+            --text-main: #ffffff;
+            --text-dim: #888888;
+            --accent: #58a6ff;
+            --border-color: #222222;
+        }
+
         body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
+            overflow: hidden;
+        }
+
+        /* Contenedor principal: El Código debe respirar (Principio IV) */
+        .zen-container {
             text-align: center;
+            max-width: 600px;
+            padding: 40px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
         }
-        .container {
-            border: 1px solid #30363d;
-            padding: 3rem;
-            border-radius: 12px;
-            background: #161b22;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-        }
+
         h1 {
             font-weight: 200;
-            letter-spacing: 10px;
-            color: #58a6ff;
-            margin-bottom: 0.5rem;
+            letter-spacing: 12px;
             text-transform: uppercase;
+            margin-bottom: 24px;
+            color: var(--accent);
         }
-        p {
-            font-style: italic;
-            color: #8b949e;
-            margin-bottom: 2rem;
-        }
-        .status {
-            font-size: 0.75rem;
+
+        /* La frase del espíritu */
+        .philosophical-phrase {
+            font-size: 1.2rem;
+            font-weight: 300;
             letter-spacing: 2px;
-            color: #3fb950;
-            border: 1px solid #238636;
-            padding: 4px 12px;
-            border-radius: 20px;
+            color: var(--text-main);
+            margin-bottom: 32px;
+            opacity: 0.9;
+        }
+
+        .status-tag {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--text-dim);
+            padding: 8px 16px;
+            border-top: 1px solid var(--border-color);
+            display: inline-block;
+        }
+
+        /* Animación sutil de respiración */
+        .fade-in {
+            animation: fadeIn 3s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
-    <div class="container">
+
+    <main class="zen-container fade-in">
         <h1>Spiritus AI</h1>
-        <p>"Donde el pensamiento encuentra su estructura."</p>
-        <span class="status">SOPHIA Framework: En Desarrollo</span>
-    </div>
+        
+        <p class="philosophical-phrase">
+            "The Spirit Exists Beyond The Form"
+        </p>
+
+        <div class="status-tag">
+            SOPHIA Framework: Alpha Phase
+        </div>
+    </main>
+
 </body>
 </html>
