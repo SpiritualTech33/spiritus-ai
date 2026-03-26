@@ -1,0 +1,1 @@
+Habla de Platon, cosas generales sobre el.
