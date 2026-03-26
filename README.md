@@ -46,6 +46,8 @@ The name is Greek — *σοφία*, wisdom. She is not a generic assistant. She 
 
 Her responses draw from the vault directly. She is meant to feel like **a conversation with a wiser version of the person who wrote the notes.** Warm. Rigorous. Never afraid of mystery.
 
+Sophia Corpus is in a folder called SophiaEngine.
+
 ---
 
 ## Stack
