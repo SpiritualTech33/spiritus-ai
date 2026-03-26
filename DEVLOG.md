@@ -1,0 +1,1 @@
+Here im gonna stablish the plan to complete the task. Im thinking in divide the plan in phases, and add journal notes each phase, recording date, and advances each coding session. That way, i have GitHub control version, and i have a full journal of the changes on each commit and each session.
