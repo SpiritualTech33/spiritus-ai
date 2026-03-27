@@ -218,3 +218,9 @@ __marimo__/
 # Obsidian vault — ignore all config, keep only notes
 SophiaEngine/.obsidian/
 SophiaEngine/.trash/
+
+# spiritus-ai — project specific
+data/chroma/          # Vector DB — auto-generated, never commit
+node_modules/         # Frontend dependencies
+frontend/.next/       # Next.js build output
+*.db                  # Any local SQLite databases

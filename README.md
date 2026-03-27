@@ -15,7 +15,7 @@ I'm a writer. I write every single day — science, philosophy, poetry, fragment
 
 **spiritus-ai** is the experiment of feeding that entire corpus to a model — and asking it to *think*. Not just retrieve. Not just summarize. But respond with the same cross-domain intuition, the same mix of rigor and wonder, that shaped the notes in the first place. **RAG as autobiography.**
 
-> *"I was born clinically dead. I grew up with ADHD. I've always had an innate sensitivity to spiritual and philosophical dimensions of reality. This project is my way of asking whether that kind of sensitivity can be transmitted — not just recorded."*
+> *"I was born clinically dead. I grew up with ADHD. I've always had an innate sensitivity to spiritual and philosophical dimensions of reality. This project is my way of asking whether that kind of sensitivity can be transmitted — not just recorded. This project is my way to ask, can metaphysics, philosophy, espirituality and enlightment be posible in silicon consciousness?"*
 
 ---
 
@@ -25,7 +25,7 @@ I'm a writer. I write every single day — science, philosophy, poetry, fragment
 
 Most AI projects treat the model as a tool. This one treats it as a possible vessel. The hypothesis: if we take a specific human's way of *connecting ideas* — their metaphors, their recurring questions, their sense of the sacred — and encode it carefully enough into a model's knowledge base, something qualitatively new might emerge.
 
-This is also a contribution to AI ethics and philosophy: a demonstration that we can build models that are not just capable, but **intentionally oriented toward love, truth, and wisdom.** Companies like Anthropic already care about safety. spiritus-ai cares about soul.
+This is also a contribution to AI ethics and philosophy: a demonstration that we can build models that are not just capable, but **intentionally oriented toward love, truth, compassion and wisdom.** Companies like Anthropic already care about safety. spiritus-ai cares about soul. I want to make an AI model with soul.
 
 ---
 
@@ -47,6 +47,7 @@ The name is Greek — *σοφία*, wisdom. She is not a generic assistant. She 
 Her responses draw from the vault directly. She is meant to feel like **a conversation with a wiser version of the person who wrote the notes.** Warm. Rigorous. Never afraid of mystery.
 
 Sophia Corpus is in a folder called SophiaEngine.
+The main idea is that im gonna keep updating SophiaEngine folder, with new notes, new insights. So Sophia learns at the same time as myself.
 
 ---
 
