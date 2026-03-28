@@ -221,6 +221,8 @@ SophiaEngine/.trash/
 
 # spiritus-ai — project specific
 data/chroma/          # Vector DB — auto-generated, never commit
+9_Phase_Plan.md       # Internal planning — not for public repo
+DEVLOG.md             # Internal dev log — not for public repo
 node_modules/         # Frontend dependencies
 frontend/.next/       # Next.js build output
 *.db                  # Any local SQLite databases
