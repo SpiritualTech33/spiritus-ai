@@ -1,5 +1,5 @@
 [[PROGRAMATION]]
 [[GOD]]
 [[ZEN]]
-[[THE EIGHTFOLD PATH OF BUDA]]
+[[The Eightfold Path Of Buddha]]
 [[SPIRITUALITY]]

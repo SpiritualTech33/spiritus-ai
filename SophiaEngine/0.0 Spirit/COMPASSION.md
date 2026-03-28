@@ -3,7 +3,7 @@
 ¿Por qué la compasión es un camino a la [[PEACE]]
 
 [[GOD]]
-[[THE EIGHTFOLD PATH OF BUDA]]
+[[The Eightfold Path Of Buddha]]
 [[ZEN]]
 [[SPIRITUALITY]]
 [[SPIRIT]]

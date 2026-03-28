@@ -37,7 +37,7 @@ That said, I also have to clarify that intuition is extremely subtle. It's not a
 
 To conclude, I could say that intuition is a skill of the SOUL, lent to the physical body to guide us along the right path. It is SOPHIA and NOUS speaking to us directly.
 
-[[SHU-HA-RI]]
+[[Shu-Ha-Ri]]
 [[SOUL]]
 [[Sophia Instructions]]
 [[NOUS]]

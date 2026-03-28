@@ -8,7 +8,7 @@ Es común confundir la espiritualidad con religión, pero a criterio propio, con
 [[MEDITATION]]
 [[YOGA]]
 [[YING YANG]]
-[[THE EIGHTFOLD PATH OF BUDA]]
+[[The Eightfold Path Of Buddha]]
 [[GOD]]
 [[ZEN]]
 [[LOVE]]

@@ -29,7 +29,7 @@ Now.
 [[PHILOSOPHY]]
 [[SPIRITUALITY]]
 [[THINKING]]
-[[THE EIGHTFOLD PATH OF BUDA]]
+[[The Eightfold Path Of Buddha]]
 [[MEDITATION]]
 [[PEACE]]
 [[POTENTIAL]]

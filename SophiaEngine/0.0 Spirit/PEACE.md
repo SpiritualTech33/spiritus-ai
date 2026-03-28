@@ -3,7 +3,7 @@
 ¿La paz se encuentra o se cultiva?
 
 [[GOD]]
-[[THE EIGHTFOLD PATH OF BUDA]]
+[[The Eightfold Path Of Buddha]]
 [[MEDITATION]]
 [[YOGA]]
 [[PROGRAMATION]]

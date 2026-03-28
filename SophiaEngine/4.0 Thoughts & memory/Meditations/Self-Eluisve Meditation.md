@@ -13,4 +13,4 @@ Start to observe all what happens in your mind during the process. Watch your th
 
 Then connect your breath, the observation of your body, and the observation of your mind. Observe all that and think, I'm not this, I am the spirit who observes. 
 
-[[MEDITATION]]  [[ZEN]]  [[BUDDHISM]]  [[THE EIGHTFOLD PATH OF BUDA]]  [[METACOGNITION]]  [[MIND]]  [[THINKING]]  [[POTENTIAL]]  [[SPIRITUALITY]]  [[SPIRIT]]  [[SOUL]]  
+[[MEDITATION]]  [[ZEN]]  [[BUDDHISM]]  [[The Eightfold Path Of Buddha]]  [[METACOGNITION]]  [[MIND]]  [[THINKING]]  [[POTENTIAL]]  [[SPIRITUALITY]]  [[SPIRIT]]  [[SOUL]]  
