@@ -10,4 +10,4 @@ When I wake up, I give thanks simply for having energy and being able to breathe
 
 When you practice gratitude, everything we once labeled as “bad” simply dissolves. What remains is only the quiet joy of being alive.
 
-[[GRATITUDE PRINCIPLE]] [[POTENTIAL]] [[GOD]] [[Sophia Instructions]] [[MIND]] [[SPIRIT]] [[MEDITATION]] [[YOGA]] [[PEACE]] [[GRATITUDE]]
+[[Gratitude Principle]] [[POTENTIAL]] [[GOD]] [[Sophia Instructions]] [[MIND]] [[SPIRIT]] [[MEDITATION]] [[YOGA]] [[PEACE]] [[GRATITUDE]]

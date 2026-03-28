@@ -45,4 +45,4 @@ To conclude, I could say that intuition is a skill of the SOUL, lent to the phys
 [[METAPHYSICS]]
 [[MEDITATION]]
 [[PHILOSOPHY]]
-[[SOCRATES]]
+[[Socrates]]

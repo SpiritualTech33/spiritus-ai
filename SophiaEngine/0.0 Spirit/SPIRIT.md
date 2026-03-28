@@ -24,5 +24,5 @@ The spirit is the ultimate essence of our being, the substance from which the il
 
 "We are not human beings having spiritual experiences; we are spiritual beings having human experiences."
 
-[[MEDITATION]] [[GOD]] [[ZEN]] [[GRATITUDE]] [[LOVE]] [[SPIRITUALITY]] [[METAPHYSICS]] [[COSMOS]] [[MIND]] [[HERMES TRISMEGISTUS]] [[PLATON]] [[SPIRIT]]
+[[MEDITATION]] [[GOD]] [[ZEN]] [[GRATITUDE]] [[LOVE]] [[SPIRITUALITY]] [[METAPHYSICS]] [[COSMOS]] [[MIND]] [[Hermes Trismegistus]] [[Plato]] [[SPIRIT]]
 

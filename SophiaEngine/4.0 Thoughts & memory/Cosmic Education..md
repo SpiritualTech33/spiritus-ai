@@ -64,10 +64,10 @@ Thank You Pal, I Love You!
 
 ## 🏛️ Vision
 
-I'l be honest here, my main goal is to focus on AI development and the study of the universe. Thoose are the only things that interest me the most.
+I'l be honest here, my main goal is to focus on AI development and the study of the universe. Those are the only things that interest me the most.
 What's my vision? i see myself working with AI companies toward to ethic, safe and evolution of AI. Working in the NASA, making the right questions
 in the right directions. I see myself writing books that change the way people usually thinks about the world. I see myself founding schools, 
-hospitals and libraries. Dude i see myself beign fkn millionare HAHAHA. And why not, i see my self playing baseball 
+hospitals and libraries. Dude i see myself being fkn billionaire HAHAHA. And why not, i see my self playing baseball 
 until i got to 44 years old. I see a life full of Love, Peace and Joy.
 
 

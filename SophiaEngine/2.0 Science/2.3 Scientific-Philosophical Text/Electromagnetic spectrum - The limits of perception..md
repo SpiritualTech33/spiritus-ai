@@ -59,7 +59,7 @@ Energy: MEDIUM
 
 ┌─────────────────────────────────────────────────────────┐ │ Visible light ≈ 0.0035% of the total spectrum │ │ 99.9965% is INVISIBLE to human eyes │ └─────────────────────────────────────────────────────────┘
 
-What does this really mean? It's curious because it echoes [[KANT]] and his "thing-in-itself." Most of us take for granted that reality is exactly as we perceive it: the sky is blue, the earth is brown, blood is red. Bees are yellow, purple represents royalty and spirituality. But the spectrum shows us there is no such thing as "red" or "yellow" out there in an absolute sense—those are interpretations our eyes and brains provide for the wavelengths we can detect. Colors are human interpretations of the visible slice of the spectrum. The rest? We simply can't see it.
+What does this really mean? It's curious because it echoes [[Kant]] and his "thing-in-itself." Most of us take for granted that reality is exactly as we perceive it: the sky is blue, the earth is brown, blood is red. Bees are yellow, purple represents royalty and spirituality. But the spectrum shows us there is no such thing as "red" or "yellow" out there in an absolute sense—those are interpretations our eyes and brains provide for the wavelengths we can detect. Colors are human interpretations of the visible slice of the spectrum. The rest? We simply can't see it.
 
 Kant argued that our reality is filtered—we don't experience the world as it truly is, but through the sieve of our physical senses. The "thing-in-itself," raw reality, lies beyond our perception.
 
@@ -82,7 +82,7 @@ It's a fascinating, almost abstract topic. Once again, it reminds me how small w
 As Sagan might say, staring at the vastness, we are like children playing on the shore while the great ocean of the unknown stretches before us. Our eyes catch only the tiniest shimmer on the waves, yet even that glimpse fills us with awe. And Feynman would grin and add: isn't it marvelous that we can build instruments to peek at the rest?
 
 [[PERCEPTION]]
-[[KANT]]
+[[Kant]]
 [[COSMOS]]
 [[THINKING]]
 [[SCIENTIFIC THINKING]]

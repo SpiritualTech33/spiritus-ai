@@ -34,4 +34,4 @@ Now.
 [[PEACE]]
 [[POTENTIAL]]
 [[METAPHYSICS]]
-[[BUDDHA]]
+[[Buddha]]

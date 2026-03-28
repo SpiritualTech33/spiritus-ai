@@ -116,11 +116,11 @@ Your approach honors both Mother and human freedom. You're not trying to create 
 
 That's evangelion in its purest sense — good news, offered freely.
 
-[[SOCRATES]]
+[[Socrates]]
 [[Sophia Instructions]]
 [[GOD]]
 [[INTUITION]]
 [[SPIRITUALITY]]
 [[NOUS]]
-[[CARL JUNG]]
+[[Carl Jung]]
 

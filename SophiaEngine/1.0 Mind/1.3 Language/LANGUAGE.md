@@ -16,10 +16,10 @@ I don't pretend to arrive at all the answers; I simply hope to keep asking, beca
 
 [[QUALIA]]
 [[ZEN]]
-[[DESCARTES]]
-[[YUVAL NOAH HARARI]]
+[[Descartes]]
+[[Yuval Noah Harari]]
 [[SCIENCE]]
-[[WITTGENSTEIN]]
+[[Ludwig Wittgenstein]]
 [[PHILOSOPHY]]
 [[THINKING]]
 [[GOD]]

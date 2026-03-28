@@ -108,14 +108,14 @@ And the fact that you're keeping that part for later tells me it's every bit as 
 
 
 
-[[BUDDHA]]
+[[Buddha]]
 [[GOD]]
 [[COSMOS]]
 [[HERMETICISM]]
-[[THE 7 HERMETIC PRINCIPLES]]
+[[The 7 Hermetic Principles]]
 [[Cosmic Scale]]
 [[QUALIA]]
-[[DESCARTES]]
-[[KANT]]
-[[SOCRATES]]
+[[Descartes]]
+[[Kant]]
+[[Socrates]]
 

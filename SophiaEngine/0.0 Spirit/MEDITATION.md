@@ -10,7 +10,7 @@ But honoring my philosophical spirit, we must ask the essential question: Why me
 
 Meditation isn't new, nor is it some modern invention of New Age spirituality. At its core, it's something profoundly simple: observing yourself.
 
-For millennia, meditative practice has been seen as a tool for greater mental clarity, higher states of awareness, and in some cases, full enlightenment. Think of figures like [[BUDDHA]], who attained enlightenment through meditation under the Bodhi tree after defeating inner demons and realizing the nature of suffering. Or Gandhi, who defeated an empire without raising a single weapon, drawing strength from inner stillness and non-violence rooted in deep contemplation. And for a contemporary example, Vishen Lakhiani, who built an empire with Mindvalley by teaching people to meditate and hack their consciousness for extraordinary living.
+For millennia, meditative practice has been seen as a tool for greater mental clarity, higher states of awareness, and in some cases, full enlightenment. Think of figures like [[Buddha]], who attained enlightenment through meditation under the Bodhi tree after defeating inner demons and realizing the nature of suffering. Or Gandhi, who defeated an empire without raising a single weapon, drawing strength from inner stillness and non-violence rooted in deep contemplation. And for a contemporary example, Vishen Lakhiani, who built an empire with Mindvalley by teaching people to meditate and hack their consciousness for extraordinary living.
 
 What happens when you meditate? It's curious—nothing I say can fully match the felt experience—but I'll try to be as faithful as possible to what happens to me personally. I won't dive into specific techniques; I'll just speak about the raw power of the act itself.
 
@@ -29,9 +29,9 @@ I believe meditation is essential, and every human being should practice it.
 [[MIND]]
 [[SPIRIT]]
 [[CONSCIOUSNESS]]
-[[BUDDHA]]
-[[GHANDI]]
-[[VISHEN LAKHIANI]]
+[[Buddha]]
+[[Ghandi]]
+[[Vishen Lakhiani]]
 [[INTUITION]]
 [[PEACE]]
 [[COSMOS]]

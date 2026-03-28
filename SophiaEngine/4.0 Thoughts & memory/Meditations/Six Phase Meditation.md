@@ -38,7 +38,7 @@ With that said, you give thanks for the practice, stand up, and begin your day.
 [[COMPASSION]]
 [[COSMOS]]
 [[GRATITUDE]]
-[[GRATITUDE PRINCIPLE]]
+[[Gratitude Principle]]
 [[MIND]]
 [[ZEN]]
 [[PEACE]]

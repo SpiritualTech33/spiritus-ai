@@ -49,7 +49,7 @@ It says at the end of the Libellus that this knowledge was kept so that it would
 [[MIND]]
 [[HERMETICISM]]
 [[PHILOSOPHY]]
-[[THE 7 HERMETIC PRINCIPLES]]
+[[The 7 Hermetic Principles]]
 [[METAPHYSICS]]
 [[SPIRITUALITY]]
 [[NOUS]]

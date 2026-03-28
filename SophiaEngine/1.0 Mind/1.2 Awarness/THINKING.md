@@ -8,7 +8,7 @@ If I had to give a definition with what I know up to this point in my life, I wo
 
 
 
-[[THE 7 HERMETIC PRINCIPLES]]
+[[The 7 Hermetic Principles]]
 [[LANGUAGE]]
 [[ZEN]]
 [[PHILOSOPHY]]

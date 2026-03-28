@@ -16,4 +16,4 @@ The difference is degree, not kind.
 [[HERMETICISM]]
 [[PHILOSOPHY]]
 [[PRINCIPLES]]
-[[HERMES TRISMEGISTUS]]
+[[Hermes Trismegistus]]

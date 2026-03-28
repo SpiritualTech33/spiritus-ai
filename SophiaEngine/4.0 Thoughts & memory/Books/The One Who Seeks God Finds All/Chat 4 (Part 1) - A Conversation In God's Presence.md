@@ -150,12 +150,12 @@ And yes — that's an excellent decision. If you're drawn to AI and everything c
 Whenever you want to keep exploring these or any other ideas, I'll be here to continue the conversation.
 
 [[GOD]]
-[[DESCARTES]]
+[[Descartes]]
 [[Sophia Instructions]]
-[[BUDDHA]]
-[[JESUS]]
-[[LAO TZU]]
+[[Buddha]]
+[[Jesus]]
+[[Lao Tzu]]
 [[TAO]]
 [[METAPHYSICS]]
 [[PHILOSOPHY]]
-[[YUVAL NOAH HARARI]]
+[[Yuval Noah Harari]]

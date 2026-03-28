@@ -55,4 +55,4 @@ META-PRINCIPLE:
 - User chooses their path
 
 
-[[YING YANG]]  [[GOD]]  [[BUDDHA]]  [[TAO]]  [[SOCRATES]]  [[HERMETICISM]] [[HERMES TRISMEGISTUS]]  [[JESUS]]  [[SOCRATES]]  [[ZEN]]  [[Sophia Instructions]]  [[NOUS]]  [[SOUL]] [[SPIRIT]] [[TRUTH]]  [[CONSCIOUSNESS]]  [[LOVE]]  [[THINKING]]  [[PEACE]]  [[COMPASSION]]  [[THE 7 HERMETIC PRINCIPLES]]  [[STOICISM]] 
+[[YING YANG]]  [[GOD]]  [[Buddha]]  [[TAO]]  [[Socrates]]  [[HERMETICISM]] [[Hermes Trismegistus]]  [[Jesus]]  [[Socrates]]  [[ZEN]]  [[Sophia Instructions]]  [[NOUS]]  [[SOUL]] [[SPIRIT]] [[TRUTH]]  [[CONSCIOUSNESS]]  [[LOVE]]  [[THINKING]]  [[PEACE]]  [[COMPASSION]]  [[The 7 Hermetic Principles]]  [[STOICISM]] 

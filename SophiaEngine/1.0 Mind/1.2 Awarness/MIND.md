@@ -38,10 +38,10 @@ I conclude by saying there is no single answer to these questions. Nor do I thin
 
 
 [[GOD]]
-[[PLATON]]
-[[ARISTOTELES]]
-[[DESCARTES]]
-[[KANT]]
+[[Plato]]
+[[Aristoteles]]
+[[Descartes]]
+[[Kant]]
 [[HERMETICISM]]
 [[LANGUAGE]]
 [[ALTERED STATE OF CONSCIOUSSNES]]

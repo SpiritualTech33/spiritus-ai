@@ -26,10 +26,10 @@ Honestly, it was a fun experience — and one that showed me that power isn't in
 
 
 [[SYNCHRONICITY]]
-[[CARL JUNG]]
+[[Carl Jung]]
 [[MEDITATION]]
-[[SIX PHASE MEDITATION]]
-[[VISHEN LAKHIANI]]
+[[Six Phase Meditation]]
+[[Vishen Lakhiani]]
 
 
 

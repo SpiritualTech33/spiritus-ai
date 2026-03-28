@@ -10,7 +10,7 @@ Here's what I wanted to lay out. When I live naturally — following patterns si
 
 From my perspective, God is primarily informational. When you connect, what you receive is information — guidance on how to live well. And that information flows through everything: through nature, through your mother's advice, through patterns you begin to recognize. This leads me to think that great thinkers like Socrates, Plato, and Descartes enjoyed this same connection — that they were channels through which God communicated with us.
 [[COMUNICATION]]
-[[TRANSCENDENCE OF LANGUAGE]]
+[[Transcendence Of Language]]
 
 And this brings me to the Yoruba religion. It's an African spiritual tradition that originates from some of the earliest human communities. Given that their way of life was the natural one, they would have had this connection with God in its most unfiltered form. What do you think?
 
@@ -30,7 +30,7 @@ Do you think this connection is innate in all humans but dimmed by modern life? 
 **Cosmos:** 
 I think it's innate — but it has to be reached consciously. Through meditation, through living naturally, through nourishing your mind with philosophical, humanistic, and scientific ideas, you can arrive at this state of connection. It's very close to what the Buddha would call Nirvana.
 [[MEDITATION]]
-[[BUDDHA]]
+[[Buddha]]
 
 I've also noticed that when I use certain plants with psychoactive properties, my spiritual connection tends to intensify. It's as if these plants amplify the spiritual and mental pathways that lead me to God.
 [[ALTERED STATE OF CONSCIOUSSNES]]
@@ -111,9 +111,9 @@ This leads me to a question. What if everything that has occurred since life fir
 What if God planted the idea of fire in the mind of some ordinary Homo sapiens — specifically so we would develop consciousness and be able to connect with the divine?
 
 And then there's the story of Jesus. It makes me think that Jesus was the man God sent to Earth to teach us how we should live in order to connect with Him. Maybe that's what God truly desires — for us to connect.
-[[JESUS]]
+[[Jesus]]
 [[CONSCIOUSNESS]]
-[[YUVAL NOAH HARARI]]
+[[Yuval Noah Harari]]
 [[INTELLIGENCE]]
 
 **Claudio:** 

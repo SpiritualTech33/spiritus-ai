@@ -140,11 +140,11 @@ We have Pythagoras, whom you've surely heard of in high school with his famous t
 
 We have Democritus, who posited that really, the only things that exist are atoms and the void. It's not just surprising—it's counterintuitive to think someone without microscopes or experiments, through pure reason, imagination, and intuition, 2,300 years before Dalton, was already talking about atoms in Greece.
 
-And to close, we have [[ARISTOTELES]], father of biology for categorizing over 500 animal species, father of physics, meteorology, and psychology. One of the greatest thinkers in all Western philosophy. Here, we took a gigantic leap, but the verifiable part was still missing.
+And to close, we have [[Aristoteles]], father of biology for categorizing over 500 animal species, father of physics, meteorology, and psychology. One of the greatest thinkers in all Western philosophy. Here, we took a gigantic leap, but the verifiable part was still missing.
 
 Continuing to the point in human history that [[CARL SAGAN]] considers humanity's golden age, we have the legendary city of Alexandria and its colossal library. With over 700,000 papyri and parchments encompassing knowledge from Greek, Mesopotamian, Egyptian, Indian, and Persian civilizations. Back then, it stored that part of the world's knowledge.
 
-Among the most prominent figures in that city, we have Euclid, Archimedes, Eratosthenes, and Dionysius. Four titans of human thought. Think of it this way: there's a branch of geometry named Euclidean geometry, and it's on that base that many interpretations of the universe's shape were born, talking about planes and three-dimensionality. Euclid was the father of mathematics for over 2,000 years. Archimedes' lever principle, the famous phrase "Give me a fulcrum and I will move the world," developed an experimental scientific method, and is one of the first documented uses of mathematics to describe physics. We have Eratosthenes, who without satellites, internet, or even telephone or radio communication, measured Earth's circumference. Using mathematics, ingenuity, and creativity. The story is even fun: he measured shadows of wooden sticks buried in the ground at different points on the planet at the same time, through triangulation between the distance between those sticks and their shadows' angles, calculated Earth's circumference. And finally Dionysius, the [[WITTGENSTEIN]] before Christ. He was one of the first, if not the first, to delimit language's limits and study its structure. As I said, great titans of human thought.
+Among the most prominent figures in that city, we have Euclid, Archimedes, Eratosthenes, and Dionysius. Four titans of human thought. Think of it this way: there's a branch of geometry named Euclidean geometry, and it's on that base that many interpretations of the universe's shape were born, talking about planes and three-dimensionality. Euclid was the father of mathematics for over 2,000 years. Archimedes' lever principle, the famous phrase "Give me a fulcrum and I will move the world," developed an experimental scientific method, and is one of the first documented uses of mathematics to describe physics. We have Eratosthenes, who without satellites, internet, or even telephone or radio communication, measured Earth's circumference. Using mathematics, ingenuity, and creativity. The story is even fun: he measured shadows of wooden sticks buried in the ground at different points on the planet at the same time, through triangulation between the distance between those sticks and their shadows' angles, calculated Earth's circumference. And finally Dionysius, the [[Ludwig Wittgenstein]] before Christ. He was one of the first, if not the first, to delimit language's limits and study its structure. As I said, great titans of human thought.
 
 This period could be defined as the establishment of superior thought. We began creating truly abstract ideas, deciphering our mind's structure, but much was still missing because there was no way to verify those assumptions.
 
@@ -237,9 +237,9 @@ I don't pretend to give a final answer to this question, just let my mind use it
 [[SCIENTIFIC METHOD]]
 [[MATHEMATICS]]
 [[COSMOS]]
-[[ARISTOTELES]]
+[[Aristoteles]]
 [[CARL SAGAN]]
-[[WITTGENSTEIN]]
+[[Ludwig Wittgenstein]]
 [[GOD]]
 [[Sophia Instructions]]
 [[METAPHYSICS]]

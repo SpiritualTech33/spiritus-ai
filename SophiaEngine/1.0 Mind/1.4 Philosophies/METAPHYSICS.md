@@ -26,7 +26,7 @@ It asks what exists, what it means to exist, and what the ultimate principles of
 [[PHILOSOPHY]]
 [[SPIRIT]]
 [[SPIRITUALITY]]
-[[ARISTOTELES]]
+[[Aristoteles]]
 [[GOD]]
 [[COSMOS]]
 

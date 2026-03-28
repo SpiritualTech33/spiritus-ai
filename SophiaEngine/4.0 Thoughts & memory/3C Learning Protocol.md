@@ -20,7 +20,7 @@ It's a pretty deep phrase, and reveals something crucial about how the brain wor
 2. Compile
 	- Timer: This is how you manage you learning cadence. I personally use the ultradian cycle. 90 minutes of deep work and 20 minutes of break.
 	- Test: User regular test to proof your knowledge. You can make small daily tests, or one weekly test. That's up to you, but don't make the mistake of learn, learn and learn for several weeks and then present a giant test. That's dumb and it doesn't correlates with the way learning really happens. Ask yourself, how many times in the real word yo have te memorize enormous chunks of info? never right? so why in the hell would you do that? keep it simple.
-	- Tools: There's a lot of tools to learn. But i think the most powerful one, is the ones that connects with [[FEYNMAN PRINCIPLE]]. In simple terms, teach to learn.
+	- Tools: There's a lot of tools to learn. But i think the most powerful one, is the ones that connects with [[Feynman Principle]]. In simple terms, teach to learn.
 
 
 

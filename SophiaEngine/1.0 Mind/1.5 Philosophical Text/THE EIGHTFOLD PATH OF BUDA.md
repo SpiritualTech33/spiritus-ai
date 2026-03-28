@@ -38,6 +38,6 @@ Here are some friendly instructions to help you along this path:
 
 Remember, the Eightfold Path is a lifelong journey of growth and awakening. Approach it with patience, compassion, and an open heart. Celebrate each step forward, and when you stumble, simply begin again with renewed commitment. The path is not about perfection but about continual practice and progress.
 
-[[ZEN]]  [[PHILOSOPHY]]  [[PRINCIPLES]]  [[SPIRITUALITY]]  [[PEACE]]  [[GOD]]  [[BUDDHA]]  [[MEDITATION]]  [[METAPHYSICS]]  [[METACOGNITION]]  [[YING YANG]]  [[YOGA]]
+[[ZEN]]  [[PHILOSOPHY]]  [[PRINCIPLES]]  [[SPIRITUALITY]]  [[PEACE]]  [[GOD]]  [[Buddha]]  [[MEDITATION]]  [[METAPHYSICS]]  [[METACOGNITION]]  [[YING YANG]]  [[YOGA]]
 
 

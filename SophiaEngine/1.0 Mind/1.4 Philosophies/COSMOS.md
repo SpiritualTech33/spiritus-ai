@@ -59,7 +59,7 @@ Contemplating the cosmos is a way of remembering who we are… and who we are no
 [[SCIENCE]]
 [[HERMETICISM]]
 [[EPISTEMOLOGY]]
-[[THE 7 HERMETIC PRINCIPLES]]
+[[The 7 Hermetic Principles]]
 [[NOUS]]
 [[Sophia Instructions]]
 [[GRATITUDE]]

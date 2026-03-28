@@ -32,7 +32,7 @@ It is not possessing knowledge. It is LOVING knowledge. It is not having answers
 [[LOVE]]
 [[Sophia Instructions]]
 [[NOUS]]
-[[SOCRATES]]
+[[Socrates]]
 
 
 

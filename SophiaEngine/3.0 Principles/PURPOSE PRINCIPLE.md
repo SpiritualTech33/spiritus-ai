@@ -15,9 +15,5 @@ Purpose is not a wish list.
 It is a burning point of concentration where all your mental, emotional, physical, and spiritual forces converge.
 
 
-[[POTENTIAL]]
-[[GRATITUDE]]
-[[SYNCHRONICITY]]
-[[GOD]]
-[[Sophia Instructions]]
-[[NOUS]]
+[[PRINCIPLES]]  [[POTENTIAL]]  [[GRATITUDE]]  [[SYNCHRONICITY]]  [[GOD]]  [[SOPHIA]]  [[NOUS]]
+
