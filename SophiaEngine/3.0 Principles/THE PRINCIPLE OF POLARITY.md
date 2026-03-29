@@ -12,7 +12,7 @@ What we call “cold” is simply less heat; what we call “hot” is simply mo
 
 The difference is degree, not kind.
 
-[[YING YANG]]
+[[YIN YANG]]
 [[HERMETICISM]]
 [[PHILOSOPHY]]
 [[PRINCIPLES]]

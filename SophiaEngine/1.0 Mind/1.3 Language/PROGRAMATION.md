@@ -12,7 +12,7 @@ Also i connect the act of coding with his:
 
 
 [[PHILOSOPHY]]
-[[YING YANG]]
+[[YIN YANG]]
 [[HERMETICISM]]
 [[GOD]]
 [[THINKING]]

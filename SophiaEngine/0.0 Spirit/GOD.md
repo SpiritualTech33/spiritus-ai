@@ -27,7 +27,7 @@ God is sovereign, creator of all, manifester of manifestation. The reason and ca
 [[Gratitude Principle]]
 [[Socrates]]
 [[YOGA]]
-[[YING YANG]]
+[[YIN YANG]]
 [[THINKING]]
 [[PROGRAMATION]]
 [[ZEN]]

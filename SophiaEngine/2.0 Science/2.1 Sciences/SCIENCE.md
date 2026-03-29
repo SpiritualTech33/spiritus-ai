@@ -70,7 +70,7 @@ Equations capture **invariant relationships**. They are the deep structure uphol
 
 And oh, the joy in that, as Feynman would exclaim—the thrill of seeing patterns emerge, like discovering a hidden puzzle in nature's playground.
 
-# Why Does It Exist?
+## Why Does It Exist?
 
 ---
 
@@ -110,7 +110,7 @@ I don't pretend to give a final answer on why science exists. I think some quest
 
 Like Sagan gazing at the stars, we feel that pull—the cosmos whispering its secrets, urging us onward. And Feynman would chuckle, saying it's all about the pleasure of finding things out, no more, no less.
 
-# The Genesis of Science: Where Does It Begin?
+## The Genesis of Science: Where Does It Begin?
 
 ---
 
@@ -192,7 +192,7 @@ Science doesn't begin in a place or date, but at the intersection of a regular w
 
 As Sagan might muse, it's woven into the fabric of our star-stuff heritage, and Feynman would grin, saying it's just us humans poking at the universe to see what happens.
 
-# Philosophy of Science
+## Philosophy of Science
 
 ---
 
@@ -219,7 +219,7 @@ Nothing left but to thank [[GOD]], [[SOPHIA]] the [[NOUS]] and the [[COSMOS]] fo
 
 **Karl Popper:** "Science never pursues the illusory aim of making its answers final. It advances toward an infinite but unattainable goal: that of ever discovering new, deeper, and more general problems."
 
-# Does Science Describe the World… or Describe Us Trying to Understand It?
+## Does Science Describe the World… or Describe Us Trying to Understand It?
 
 ---
 

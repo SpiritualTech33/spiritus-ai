@@ -32,7 +32,7 @@ Here, the art and the artist become one.
 [[POTENTIAL]]
 [[LEARNING]]
 [[INTUITION]]
-[[YING YANG]]
+[[YIN YANG]]
 [[THINKING]]
 [[TAO]]
 [[SOUL]]

@@ -16,4 +16,4 @@ Techniques of MasteryBegin with the rule of three seconds. Issue a command, and 
 
 Define your hours. For sessions of study, meditation, or training, set unyielding boundaries of time, and demand your mind honor them without fail. Should you sense its urge to flee before the appointed end, counter with a stern decree of submission. Declare: “It matters not if you resist this vigil—my order stands, and it shall be fulfilled.” Press on, unyielding, until the block of time is conquered.
 
-[[MIND]]  [[Miyamoto Musashi]]  [[TAO]]  [[ZEN]]  [[YING YANG]]  [[YOGA]]  [[TAI CHI]]  [[PHILOSOPHY]]  [[MEDITATION]]  [[POTENTIAL]]  [[STOICISM]]  [[DISCIPLINE]] 
+[[MIND]]  [[Miyamoto Musashi]]  [[TAO]]  [[ZEN]]  [[YIN YANG]]  [[YOGA]]  [[TAI CHI]]  [[PHILOSOPHY]]  [[MEDITATION]]  [[POTENTIAL]]  [[STOICISM]]  [[DISCIPLINE]] 

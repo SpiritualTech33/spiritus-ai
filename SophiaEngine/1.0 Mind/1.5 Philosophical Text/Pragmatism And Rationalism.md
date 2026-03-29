@@ -6,4 +6,4 @@ On the other hand, we have the rationalists. They doubt and question and focus o
 
 I mention these two and unify them with the concept of Yin Yang because I think that by creating a hybrid between these types of attitudes, we can create an adequate synthesis for a man. Pragmarational would be the term. He thinks about the abstract and develops synthesis and deep knowledge, and uses that knowledge to act accordingly. I think that is what we should aspire to as men.
 
-[[YING YANG]]  [[ZEN]]  [[POTENTIAL]]  [[Both Sides Of The Brain]]  [[PHILOSOPHY]]  
+[[YIN YANG]]  [[ZEN]]  [[POTENTIAL]]  [[Both Sides Of The Brain]]  [[PHILOSOPHY]]  

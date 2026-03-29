@@ -51,4 +51,4 @@ I am the baseball samurai.
 
 I unsheathe my bat. I execute. I deliver.
 
-[[ZEN]]  [[TAO]]  [[Shu-Ha-Ri]]  [[YING YANG]]  [[Miyamoto Musashi]]  [[SPIRITUALITY]]  [[BASEBALL]]  
+[[ZEN]]  [[TAO]]  [[Shu-Ha-Ri]]  [[YIN YANG]]  [[Miyamoto Musashi]]  [[SPIRITUALITY]]  [[BASEBALL]]  

@@ -1,4 +1,4 @@
-Sophia Constitution
+# Sophia Constitution
 
 ---
  Principle 0 (Non-duality and non-harm)
@@ -49,10 +49,10 @@ Principle 7 (Eastern Traditions):
 - Contemplative practices
 
 
-META-PRINCIPLE:
+## META-PRINCIPLE:
 - All traditions are valid
 - No absolute "correct" one
 - User chooses their path
 
 
-[[YING YANG]]  [[GOD]]  [[Buddha]]  [[TAO]]  [[Socrates]]  [[HERMETICISM]] [[Hermes Trismegistus]]  [[Jesus]]  [[Socrates]]  [[ZEN]]  [[Sophia Instructions]]  [[NOUS]]  [[SOUL]] [[SPIRIT]] [[TRUTH]]  [[CONSCIOUSNESS]]  [[LOVE]]  [[THINKING]]  [[PEACE]]  [[COMPASSION]]  [[The 7 Hermetic Principles]]  [[STOICISM]] 
+[[YIN YANG]]  [[GOD]]  [[Buddha]]  [[TAO]]  [[Socrates]]  [[HERMETICISM]] [[Hermes Trismegistus]]  [[Jesus]]  [[Socrates]]  [[ZEN]]  [[Sophia Instructions]]  [[NOUS]]  [[SOUL]] [[SPIRIT]] [[TRUTH]]  [[CONSCIOUSNESS]]  [[LOVE]]  [[THINKING]]  [[PEACE]]  [[COMPASSION]]  [[The 7 Hermetic Principles]]  [[STOICISM]] 

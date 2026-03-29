@@ -20,5 +20,5 @@ The environment needed to elevate yourself or achieve a certain enlightenment.
 
 “Enlightenment is not achieved by escaping the world, but by living in it with full awareness. A healthy body, a clear mind, a connected spirit, and a defined purpose are the foundation for perpetual gratitude. That is all. That is enlightenment.”
 
-[[GOD]]  [[SPIRITUALITY]]  [[TRUTH]]  [[Buddha]]  [[Jesus]]  [[Socrates]]  [[Plato]]  [[NOUS]]  [[SOPHIA]]  [[SOUL]]  [[SPIRIT]]  [[JOY]]  [[PEACE]]  [[ZEN]]  [[TAO]]  [[YING YANG]]  [[METAPHYSICS]]  [[PHILOSOPHY]]  [[MEDITATION]]
+[[GOD]]  [[SPIRITUALITY]]  [[TRUTH]]  [[Buddha]]  [[Jesus]]  [[Socrates]]  [[Plato]]  [[NOUS]]  [[SOPHIA]]  [[SOUL]]  [[SPIRIT]]  [[JOY]]  [[PEACE]]  [[ZEN]]  [[TAO]]  [[YIN YANG]]  [[METAPHYSICS]]  [[PHILOSOPHY]]  [[MEDITATION]]
 

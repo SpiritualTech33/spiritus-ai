@@ -1,12 +1,11 @@
-
-
+# Electromagnetism spectrum - The limits of perception
 ---
 
 Just a few hours ago, I read something that blew my mind. It was in Carl Sagan's book _Cosmos_, specifically in Chapter 4. The concept is called the **electromagnetic spectrum**, and it's nothing short of fascinating. It revealed something I've been intuiting for a while now: the reality we experience is merely a tiny fraction of the total reality.
 
 Let's start with the question—because doubt is what leads us to answers. What is the electromagnetic spectrum? A simplistic definition would be: all electromagnetic radiation that exists, organized by wavelength (or frequency).
 
-### Key Components
+## Key Components
 
 **1. Electromagnetic Radiation**
 
@@ -30,6 +29,8 @@ Let's start with the question—because doubt is what leads us to answers. What 
 - Short wavelength = high frequency
 
 They all travel at a constant speed: the speed of light. Because technically, they _are_ light.
+
+## How much light do we see?
 
 Now, here's where it gets fun—and deeply unsettling. Things really start to twist when you bring [[PERCEPTION]] into the equation.
 
@@ -72,6 +73,8 @@ Here's a rough graphical representation of all the light we can't see:
 **VISIBLE LIGHT (what we see):** █
 
 Yes, _that_ small.
+
+## Conclussion 
 
 Seeing this sparks a natural thought: what colors, what forms, what beauty must the [[COSMOS]] hold across the full spectrum? Imagine, just for a moment, perceiving the electromagnetic waves from radio antennas, your WiFi signal, the heat fields around living beings, the auras of people. Imagine seeing the spectra of planets, constellations, galaxies, comets. Seeing what is invisible yet felt. Imagine colors beyond the observable range. Even trying to picture it strains the limits of my imagination and reshapes how I view the world.
 

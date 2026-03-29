@@ -15,5 +15,5 @@ That's what Yoga is, learning how to live completely in the present.
 [[SPIRITUALITY]]
 [[ZEN]]
 [[GOD]]
-[[YING YANG]]
+[[YIN YANG]]
 [[POTENTIAL]]

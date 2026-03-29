@@ -53,7 +53,7 @@ The main idea is that im gonna keep updating SophiaEngine folder, with new notes
 
 ## Stack
 ```
-Python · FastAPI · LangChain / LlamaIndex · Vector DB
+Python · FastAPI  · Vector DB
 Obsidian (.md vault) · RAG Pipeline · Anthropic API · React
 ```
 

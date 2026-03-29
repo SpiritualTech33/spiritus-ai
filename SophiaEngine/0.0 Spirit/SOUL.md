@@ -12,7 +12,7 @@ Think of it this way. The spirit is that metaphysical energy that gives you life
 
 Consider yourself. Think about your parents and your friends. Think about the place where you were born, the schools you attended. The decisions you made, the opinions you formed. The biases that shape your thoughts. Think about the books you've read, the movies you've seen. Think about all the emotions you've felt, the pain you've suffered, the pleasure you've experienced. Think about every experience you've had throughout your life. Think about all the good and the bad, the food you eat, your habits, your beliefs about the world. All of that—is your soul. Some psychologists call it the psyche. This reminds me of Carl Jung's concept of [[INDIVIDUATION]], which, broadly speaking, could be defined as the process of creating a soul by becoming an individual, by differentiating yourself as a unique being.
 
-The spirit is the totality of being; the soul is the individual expression of the spirit. They need each other, like [[YING YANG]]: the spirit to exist, the soul to manifest the spirit. The spirit comes from [[GOD]], and the soul is built through our phenomenological experience—through living, feeling, choosing, suffering, loving.
+The spirit is the totality of being; the soul is the individual expression of the spirit. They need each other, like [[YIN YANG]]: the spirit to exist, the soul to manifest the spirit. The spirit comes from [[GOD]], and the soul is built through our phenomenological experience—through living, feeling, choosing, suffering, loving.
 
 Poetically put: the spirit uses the body to create the soul, and in doing so, to know itself.
 
@@ -34,7 +34,7 @@ This is [[METAPHYSICS]] at its most intimate: trying to map what we feel when we
 [[MIND]] 
  [[INDIVIDUATION]] 
  [[Carl Jung]]
-  [[YING YANG]]
+  [[YIN YANG]]
    [[PHILOSOPHY]] 
    [[CONSCIOUSNESS]]
  [[THINKING]]

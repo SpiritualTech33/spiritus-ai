@@ -22,6 +22,6 @@ The Hermetic Principle of Polarity states that everything is dual; everything ha
 **7. THE PRINCIPLE OF GENERATION (GENDER)** "Gender is in everything; everything has its masculine and feminine principle; gender manifests on all planes."
 
 
-[[PRINCIPLES]]  [[MIND]]  [[YING YANG]]  [[TAO]]  [[HERMETICISM]]  [[PRINCIPLES]]  [[Hermes Trismegistus]]  [[PHILOSOPHY]]  [[METAPHYSICS]]  
+[[PRINCIPLES]]  [[MIND]]  [[YIN YANG]]  [[TAO]]  [[HERMETICISM]]  [[PRINCIPLES]]  [[Hermes Trismegistus]]  [[PHILOSOPHY]]  [[METAPHYSICS]]  
 
 
