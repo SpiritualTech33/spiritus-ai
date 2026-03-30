@@ -1,3 +1,10 @@
+---
+title: "spiritus-ai — The Definitive 9-Phase Build Plan"
+related: ["backlinks", "LOVE"]
+date: "2026-03-29"
+tags: ["artificial-intelligence", "software-architecture", "programming", "love", "consciousness"]
+---
+
 # spiritus-ai — The Definitive 9-Phase Build Plan
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*

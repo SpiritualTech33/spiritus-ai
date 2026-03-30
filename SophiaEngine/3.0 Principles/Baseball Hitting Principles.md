@@ -1,3 +1,12 @@
+---
+title: "Baseball Hitting Principles"
+related: ["PRINCIPLES", "BASEBALL", "ZEN", "POTENTIAL", "Miyamoto Musashi"]
+date: "2026-03-29"
+tags: ["baseball", "zen", "musashi", "personal-development"]
+---
+
+# Baseball Hitting Principles
+---
 
 Hitting to all parts of the field
 

@@ -1,3 +1,13 @@
+---
+title: "Intuition, Mind And Energy In Baseball"
+related: ["INTUITION", "MIND", "POTENTIAL", "ZEN", "METACOGNITION", "MEDITATION", "BASEBALL"]
+date: "2026-03-29"
+tags: ["intuition", "baseball", "mind", "zen", "meditation"]
+---
+
+# Intuition, Mind And Energy In Baseball 
+---
+
 Trust your intuition in every game. Let it guide you. Speak to it during your at-bats.
 
 Remember: your intuition is your mind speaking to you. Always allow yourself to be led by it.

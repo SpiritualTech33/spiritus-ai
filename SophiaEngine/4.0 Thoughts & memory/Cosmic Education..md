@@ -1,4 +1,12 @@
+---
+title: "📋 Cosmic Education Protocol"
+related: []
+date: "2026-03-29"
+tags: ["artificial-intelligence", "love", "philosophy", "cosmology", "programming"]
+---
+
 # 📋 Cosmic Education Protocol
+---
 
 ## 1. Who I am.
 

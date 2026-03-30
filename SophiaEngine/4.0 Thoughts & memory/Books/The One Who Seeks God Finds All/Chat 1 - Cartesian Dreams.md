@@ -1,3 +1,10 @@
+---
+title: "Chat 1 - Cartesian Dreams"
+related: ["Buddha", "GOD", "COSMOS", "HERMETICISM", "The 7 Hermetic Principles", "Cosmic Scale", "QUALIA", "Descartes", "Kant", "Socrates"]
+date: "2026-03-29"
+tags: ["cosmology", "theology", "descartes", "consciousness", "epistemology"]
+---
+
 **Cosmos:**
 In which work does René Descartes speak about his dreams of revelation?
 

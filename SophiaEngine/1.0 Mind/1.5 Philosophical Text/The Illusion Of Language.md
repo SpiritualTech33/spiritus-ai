@@ -1,3 +1,13 @@
+---
+title: "The Illusion Of Language"
+related: ["LANGUAGE", "THINKING", "PHILOSOPHY", "ZEN", "GOD", "Transcendence Of Language", "TAO", "ONTOLOGY", "METAPHYSICS", "MIND"]
+date: "2026-03-29"
+tags: ["language", "programming", "mind", "epistemology", "thinking"]
+---
+
+# The Illusion Of Language
+---
+
 It would be fitting to say that language is also a form of illusion. But before beginning the argument for such a claim, it would be necessary to first analyze how language stands as the primary form of knowledge and what allows us to eliminate abstraction within the ideas we develop.
 
 When you wish to learn something, to understand it deeply, you need the ability to verbalize that thought or concept. Think of it this way: when you want to share your ideas with another person, you must verbalize those ideas, and through language, you allow your ideas to be received by another consciousness. Well, many people conclude that language is the basis of people’s thinking, when in reality we think more with images, sensations, or sounds.

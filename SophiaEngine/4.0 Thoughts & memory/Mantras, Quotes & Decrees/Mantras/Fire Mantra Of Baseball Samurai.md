@@ -1,3 +1,13 @@
+---
+title: "Baseball Samurai Mantra"
+related: ["ZEN", "TAO", "Shu-Ha-Ri", "YIN YANG", "Miyamoto Musashi", "SPIRITUALITY", "BASEBALL"]
+date: "2026-03-29"
+tags: ["baseball", "taoism", "mantra", "zen", "wisdom"]
+---
+
+# Baseball Samurai Mantra
+---
+
 A mantra designed to become a baseball samurai, sharp mind and strong body, ready to dominate.
 
 

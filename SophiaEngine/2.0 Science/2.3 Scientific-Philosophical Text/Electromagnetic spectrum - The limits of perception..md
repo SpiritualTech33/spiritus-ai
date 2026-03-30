@@ -1,3 +1,10 @@
+---
+title: "Electromagnetism spectrum - The limits of perception"
+related: ["PERCEPTION", "Kant", "COSMOS", "THINKING", "SCIENTIFIC THINKING", "CARL SAGAN", "SCIENCE", "MIND", "QUALIA", "EPISTEMOLOGY"]
+date: "2026-03-29"
+tags: ["physics", "science", "cosmology", "carl-sagan", "kant"]
+---
+
 # Electromagnetism spectrum - The limits of perception
 ---
 

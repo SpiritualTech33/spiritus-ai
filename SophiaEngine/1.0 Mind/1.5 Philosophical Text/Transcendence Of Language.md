@@ -1,3 +1,13 @@
+---
+title: "Transcendence Of Language"
+related: ["PHILOSOPHY", "THINKING", "POTENTIAL", "ZEN", "SPIRIT", "GOD"]
+date: "2026-03-29"
+tags: ["language", "ontology", "wittgenstein", "zen", "thinking"]
+---
+
+# Transcendence Of Language
+---
+
 Interesting. This Wittgenstein is a deep thinker.
 
 When I started programming, I first began by asking myself what language is. This is how most courses begin, talking about the differences between natural and formal language.

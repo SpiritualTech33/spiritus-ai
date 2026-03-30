@@ -1,3 +1,12 @@
+---
+title: "Before Game Tips"
+related: ["BASEBALL", "Fire Mantra Of Baseball Samurai", "Gladiator", "ZEN", "MEDITATION", "POTENTIAL"]
+date: "2026-03-29"
+tags: ["baseball", "soul", "meditation", "zen", "art"]
+---
+
+# Before Game Tips
+---
 Remember: hitting is not a science, it is not an algorithm, and it is not a battle.
 You are not competing against the pitcher or the fielders. Because hitting is not about that.
 Hitting is an art, a manifestation of the soul.

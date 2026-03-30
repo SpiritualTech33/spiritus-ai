@@ -1,3 +1,10 @@
+---
+title: "What is Spirit to Me?"
+related: ["MIND", "METAPHYSICS", "COSMOS", "MEDITATION", "GOD", "ZEN", "GRATITUDE", "LOVE", "SPIRITUALITY", "Hermes Trismegistus", "Plato", "SPIRIT"]
+date: "2026-03-29"
+tags: ["spirituality", "athletics", "mind", "plato", "ontology"]
+---
+
 # What is Spirit to Me?
 
 It's a difficult question, to be honest. There isn't a single answer, and none is definitively right or wrong. It's one of the oldest inquiries I know—and for good reason. It touches the very foundation of why we exist.

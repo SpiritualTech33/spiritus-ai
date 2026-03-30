@@ -1,3 +1,12 @@
+---
+title: "What Is Love?"
+related: ["GOD", "COMPASSION", "GRATITUDE", "SPIRITUALITY", "Sophia Instructions", "TRUTH", "PEACE"]
+date: "2026-03-29"
+tags: ["love", "theology", "gratitude", "compassion", "ontology"]
+---
+
+# What Is Love?
+
 What is love? Love, in my own view, is the most powerful force in the universe, capable of unifying all existence. If we exist in the here and now, it is entirely thanks to the love that God has for us, for it is due to this love that He creates us through His infinite Mind. But what is love? Why do we desire so much to experience it?
 
 Love is helping someone when they need it. Love is not judging or creating interpretations of others, For you know nothing of their life and what it's like to be them. Love is doing something simply because you enjoy it, Without requiring anything in return.
@@ -17,7 +26,4 @@ Love is universal and connects all the hearts of existence. I like to think that
 [[Sophia Instructions]]
 [[TRUTH]]
 [[PEACE]]
-[[SOUL]]
-[[SPIRIT]]
-
-
+[[SOU

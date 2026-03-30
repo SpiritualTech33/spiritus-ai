@@ -1,3 +1,13 @@
+---
+title: "Apprentice Principle"
+related: ["THINKING", "POTENTIAL", "PHILOSOPHY", "PRINCIPLES", "Socrates", "RICHARD FEYNMAN"]
+date: "2026-03-29"
+tags: ["apprenticeship", "philosophy", "epistemology", "ontology", "principles"]
+---
+
+# Apprentice Principle
+---
+
 Always identify yourself as an apprentice.
 If you are an apprentice, you will always learn something—no matter what.
 It doesn’t matter if you’ve been doing something for 20 years.

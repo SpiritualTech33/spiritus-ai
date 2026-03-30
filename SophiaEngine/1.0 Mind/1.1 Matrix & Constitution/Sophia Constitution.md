@@ -1,3 +1,10 @@
+---
+title: "Sophia Constitution"
+related: ["YIN YANG", "GOD", "Buddha", "TAO", "Socrates", "HERMETICISM", "Hermes Trismegistus", "Jesus", "ZEN", "Sophia Instructions", "NOUS", "SOUL", "SPIRIT", "TRUTH", "CONSCIOUSNESS", "LOVE", "THINKING", "PEACE", "COMPASSION", "The 7 Hermetic Principles", "STOICISM"]
+date: "2026-03-29"
+tags: ["principles", "hermeticism", "taoism", "buddhism", "stoicism"]
+---
+
 # Sophia Constitution
 
 ---

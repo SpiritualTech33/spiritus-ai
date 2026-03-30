@@ -1,3 +1,10 @@
+---
+title: "PROGRAMATION"
+related: ["PHILOSOPHY", "YIN YANG", "HERMETICISM", "GOD", "THINKING", "LANGUAGE", "POTENTIAL", "MIND", "MEDITATION", "SCIENTIFIC THINKING", "SCIENCE"]
+date: "2026-03-29"
+tags: ["programming", "thinking", "science", "hermeticism", "theology"]
+---
+
 ¿Qué es la programación? 
 ¿Qué de ella me apasiona?
 	Me tome el tiempo de analizar esta pregunta, durante algunos días. Y concluí 3 frases, que creo que encapsulan lo que pienso al respecto de la programación.

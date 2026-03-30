@@ -1,4 +1,12 @@
+---
+title: "Programmer Monk Mantra"
+related: ["ZEN", "TAO", "YIN YANG", "METAPHYSICS", "METACOGNITION", "MIND", "MEDITATION", "SPIRIT", "NOUS", "SOPHIA"]
+date: "2026-03-29"
+tags: ["programming", "taoism", "mind", "spirituality", "meditation"]
+---
+
 # Programmer Monk Mantra
+---
 
 ## A sentence to enter in total flow state before coding
 

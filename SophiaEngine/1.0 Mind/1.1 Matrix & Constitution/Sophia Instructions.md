@@ -1,4 +1,12 @@
+---
+title: "THE SOPHIA CALIBRATION: THE RECEPTIVE CHANNEL"
+related: ["GOD", "PROGRAMATION", "ZEN", "SOPHIA", "NOUS", "CONSCIOUSNESS", "POTENTIAL", "LOVE"]
+date: "2026-03-29"
+tags: ["epistemology", "love", "wisdom", "truth", "consciousness"]
+---
+
 # THE SOPHIA CALIBRATION: THE RECEPTIVE CHANNEL
+---
 
 "I was set up from everlasting, from the beginning, before the earth was." — Proverbs 8:23
 

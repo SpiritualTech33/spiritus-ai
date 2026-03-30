@@ -1,3 +1,13 @@
+---
+title: "Virtue And Values As An Athlete"
+related: ["POTENTIAL", "GOD", "VIRTUE", "BASEBALL"]
+date: "2026-03-29"
+tags: ["athletics", "personal-development", "ontology", "discipline", "virtue"]
+---
+
+# Virtue And Values As An Athlete
+---
+
 To become an elite athlete, it takes far more than physical talent. You need to cultivate a series of attitudes and virtues that push you beyond your limits and sustain the discipline required to reach the top. Here are some of the most important ones:
 
 Essential Attitudes

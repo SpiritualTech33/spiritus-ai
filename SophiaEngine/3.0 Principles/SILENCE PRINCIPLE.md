@@ -1,3 +1,13 @@
+---
+title: "Silence Principle"
+related: ["PRINCIPLES", "THINKING", "Transcendence Of Language", "INTUITION", "PEACE", "ZEN"]
+date: "2026-03-29"
+tags: ["zen", "silence", "language", "principles", "inner-peace"]
+---
+
+# Silence Principle
+---
+
 Never speak more than necessary.
 
 State only what is essential, and let your results speak for themselves.

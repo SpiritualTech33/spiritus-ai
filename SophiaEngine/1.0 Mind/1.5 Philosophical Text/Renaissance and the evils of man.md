@@ -1,4 +1,15 @@
-First of all, the structure of reality itself:
+---
+title: "Renaissance and the evils of man (Corpus Hermeticum)"
+related: ["GOD", "COSMOS", "MIND", "HERMETICISM", "PHILOSOPHY", "The 7 Hermetic Principles", "METAPHYSICS", "SPIRITUALITY", "NOUS"]
+date: "2026-03-29"
+tags: ["theology", "cosmology", "hermeticism", "mind", "epistemology"]
+---
+
+# Renaissance and the evils of man (Corpus Hermeticum)
+---
+
+
+## Structure Of Reality
 
 1. God: As the creator of existence itself, He is everything. Everything that exists is produced by Him and is the same in essence. He is present in everything - in my thoughts, in matter, in animals, in the soul, in the air you breathe, in the water of rivers and oceans, in the rocks that make up our soil, in the mountains that caress the sky, in the photons of the sun, and in the gases of Jupiter, in the rings of Saturn, and in everything that makes up the cosmos. God is in everything because He is everything.
 
@@ -7,11 +18,12 @@ First of all, the structure of reality itself:
 3. Man: We are contained in the cosmos, and the cosmos is contained in God. Man can connect with God, connect with the good, and by connecting with God's beatitude, we connect with the intrinsic harmony of the cosmos.
 
 4. Animals without the use of reason: Possessors of soul and physical body, like man, but without possessing the mind, which is what connects us with God, since the all is mind, the all is mental, following the Hermetic principles.
+---
 
 
-I also want to emphasize Hermes' teaching to his son Tat about the evils of man, the powers to ward off these evils, and the revelation of rebirth.
 
-The evils are the following:
+
+## The Evils Of The Man
 
 1. Ignorance
 2. Grief
@@ -26,7 +38,7 @@ The evils are the following:
 11. Impetuosity
 12. Vice
 
-And the powers that expel these evils are:
+## The Powers That Expels These Evils
 
 1. Knowledge
 2. Joy
@@ -39,6 +51,9 @@ And the powers that expel these evils are:
 9. Life
 10. Light
 
+---
+
+## Rebirth Revelation
 
 And finally, the revelation of rebirth. We are reborn as men when we understand that we possess two bodies. One corporeal, slave to physical sensations, that body that we experience through the senses, immersed in pain and pleasure and any sensation coming from corporeality. And a second body that is seen only with the senses of the mind, the subtle senses that escape the common conventions of our basic sensory senses. The incorporeal body, eternal, immortal. When you know of that, you are reborn as a man, as an immortal man, a son of God.
 

@@ -1,4 +1,13 @@
-**What is God?** **Why do I feel It so present?** **Where is God?**
+---
+title: "GOD"
+related: ["LANGUAGE", "LOVE", "GRATITUDE", "COMPASSION", "PEACE", "SCIENCE", "SPIRITUALITY", "SPIRIT", "MIND", "SOUL", "HERMETICISM", "PHILOSOPHY", "POTENTIAL", "Gratitude Principle", "Socrates", "YOGA", "YIN YANG", "THINKING", "PROGRAMATION", "ZEN", "TAO", "METAPHYSICS", "METACOGNITION", "MEDITATION", "COSMOS", "CONSCIOUSNESS"]
+date: "2026-03-29"
+tags: ["theology", "taoism", "ontology", "language", "cosmology"]
+---
+
+# GOD
+
+## **What is God?** **Why do I feel It so present?** **Where is God?**
 
 God—perhaps the single most recurrent theme in all of human history, and for good reason. It is the All, that which existed before any form, any thought, any word. It is the Creator, the manifestor of existence itself. And yet it is curious: we use human language to name what cannot be named. There is a line in the Tao that says something like, “The Tao that can be spoken is not the eternal Tao.” (Interpreting the Tao as God, as that divine essence.) And I believe it is so—the words are never enough to capture the infinite emanation of the Lord. Still, we make our best attempt, and that is exactly what I seek to do now: to encapsulate God in human language.
 

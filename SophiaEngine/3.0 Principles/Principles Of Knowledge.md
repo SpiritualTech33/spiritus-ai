@@ -1,3 +1,12 @@
+---
+title: "Principles Of Knowledge"
+related: ["PRINCIPLES", "LEARNING", "THINKING", "POTENTIAL"]
+date: "2026-03-29"
+tags: ["epistemology", "thinking", "learning", "personal-development", "wisdom"]
+---
+
+# Principles Of Knowledge
+---
 
 These are foundational principles for acquiring, navigating, and deepening true knowledge—not just collecting facts, but building understanding that lasts and grows.
 

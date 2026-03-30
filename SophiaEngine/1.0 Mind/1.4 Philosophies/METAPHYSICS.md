@@ -1,4 +1,14 @@
-What is Metaphysics?
+---
+title: "Metaphysics"
+related: ["PHYSICS", "EPISTEMOLOGY", "SCIENCE", "PHILOSOPHY", "SPIRIT", "SPIRITUALITY", "Aristoteles", "GOD", "COSMOS"]
+date: "2026-03-29"
+tags: ["metaphysics", "physics", "philosophy", "ontology", "science"]
+---
+
+# Metaphysics
+---
+
+## What is Metaphysics?
 
 The name might sound a little intimidating—many people already fear PHYSICS because it's complex, so hearing "metaphysics" makes you think it's something even more complicated, and indeed it is. But not in a bad way, not as something incomprehensible or impossible to learn. Rather, it's because it forces anyone who studies it to do something very similar to what EPISTEMOLOGY demands: it makes you stop taking things for granted and invites you to question deeply everything you interpret as true.
 

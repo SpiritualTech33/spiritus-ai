@@ -1,3 +1,10 @@
+---
+title: "Cosmic Scale"
+related: ["COSMOS", "LIFE", "GOD", "Sophia Instructions", "PHILOSOPHY", "SCIENCE", "CONSCIOUSNESS", "THINKING"]
+date: "2026-03-29"
+tags: ["cosmology", "ontology", "consciousness", "theology", "philosophy"]
+---
+
 # Cosmic Scale
 
 ---

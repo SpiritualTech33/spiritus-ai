@@ -1,3 +1,12 @@
+---
+title: "Ontology Of Sound"
+related: ["LANGUAGE", "THINKING", "ONTOLOGY", "PHILOSOPHY", "MEDITATION"]
+date: "2026-03-29"
+tags: ["thinking", "mind", "psychology", "theology", "love"]
+---
+
+# Ontology Of Sound
+---
 ## Association of Identity with Your Name
 
 It’s curious, the profound association that exists between the idea we have of the “self” and the name that was given to us at birth. I mean, think about it this way. When someone calls you by your name, there’s an existential and causal relationship between the call and the sense of belonging you feel with that name. When they call us, we accept that we are what they’re calling. It’s as if our name encapsulated our identity, our idea of who we are.
@@ -12,9 +21,9 @@ Sound itself carries meaning. When you pronounce a word, when you say a name, or
 
 Honestly, I don’t know, but it gives me something to think about. It leaves me thinking, if this is the case, why do we associate our identity with our name? If the meaning of the name lives outside of us.
 
-## Association of Internal States with Internal
+---
 
-Dialogue
+## Association of Internal States with Internal Dialogue
 
 On this topic, I’d love to dive deeper, because it’s something I want to remember later and keep present. The power of our internal dialogue in building and manifesting an elevated or positive internal state.
 

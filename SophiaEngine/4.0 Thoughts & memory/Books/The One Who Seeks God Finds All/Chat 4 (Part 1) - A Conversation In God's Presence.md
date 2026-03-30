@@ -1,3 +1,10 @@
+---
+title: "Chat 4 (Part 1) - A Conversation In God's Presence"
+related: ["GOD", "Descartes", "Sophia Instructions", "Buddha", "Jesus", "Lao Tzu", "TAO", "METAPHYSICS", "PHILOSOPHY", "Yuval Noah Harari"]
+date: "2026-03-29"
+tags: ["artificial-intelligence", "theology", "spirituality", "wisdom", "buddhism"]
+---
+
 **Cosmos:**
 I read a book called _Sapiens_ by Yuval Noah Harari. It traces the evolution of Homo sapiens from our earliest appearance in East Africa all the way to the present day. One section that really caught my attention was about the bands of hunter-gatherers and how they lived — hunting animals, gathering fruit to feed themselves. It struck something in me, and I started aligning certain patterns in my own life more closely with that ancestral way of being. Especially around diet and daily physical activity.
 

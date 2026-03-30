@@ -1,3 +1,11 @@
+---
+title: "Zen"
+related: ["PHILOSOPHY", "SPIRITUALITY", "THINKING", "The Eightfold Path Of Buddha", "MEDITATION", "PEACE", "POTENTIAL", "METAPHYSICS", "Buddha"]
+date: "2026-03-29"
+tags: ["zen", "philosophy", "buddhism", "buddha", "thinking"]
+---
+
+# Zen
 
 **Zen is not a philosophy to be explained.**
 

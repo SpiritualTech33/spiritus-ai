@@ -1,3 +1,15 @@
+---
+title: "Thinking"
+related: ["The 7 Hermetic Principles", "LANGUAGE", "ZEN", "PHILOSOPHY", "POTENTIAL", "MIND", "MEDITATION", "METACOGNITION", "GOD", "SCIENCE", "SCIENTIFIC THINKING"]
+date: "2026-03-29"
+tags: ["thinking", "hermeticism", "mind", "science", "writing"]
+---
+
+# Thinking
+---
+
+## What Thinking Is?
+
 It's curious, because in doing this, writing this note, something very concrete is happening - I'm thinking about thinking. Meta-thinking, I feel, would be the correct name. 
 
 That said, I want to continue asking questions, because by asking, we allow the answers to come to us. What does it really mean to think? I asked some close people, siblings, and friends. Some answered that thinking is analyzing a situation to come to a resolution. A very valid answer if you think from a resolutionist perspective (the search for feasible resolutions to a concrete problem). Others couldn't tell me with certainty what thinking was. My housekeeper answered that deciding what we will eat tomorrow is a form of thinking. And it's partly true, it constitutes a decision, and decision-making itself is already established as logic and thought. My closest brother answered that thinking is philosophizing or possibility, thinking about the possibilities of something, and I consider it the closest option to what I myself think. 

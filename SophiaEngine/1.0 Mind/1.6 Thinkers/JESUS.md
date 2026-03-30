@@ -1,3 +1,10 @@
+---
+title: "JESUS"
+related: ["DIVINE"]
+date: "2026-03-29"
+tags: ["jesus", "theology", "philosophy", "love", "compassion"]
+---
+
 # JESUS
 
 Hablar de Jesus es hablar de muchos conceptos a la vez, porque es el tipo de hombre que no puede ser catalogado o puesto en una sola categoría. Su legado es inmenso, y lo que nos dejo a los hombres posterior a el, es un regalo digno de llamarse proveniente de lo divino.

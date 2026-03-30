@@ -1,21 +1,34 @@
+---
+title: "COSMOS LOG"
+related: []
+date: "2026-03-29"
+tags: ["programming", "cosmology", "software-architecture", "writing", "artificial-intelligence"]
+---
+
 # COSMOS LOG
+This is the DEVLOG, im gonna use it as a journal of each code session. It will have a very clear structure.
 
 ## CURRENT STATE: 
 Building Phase 1
 
+---
 
-This is the DEVLOG, im gonna use it as a journal of each code session. It will have a very clear structure.
 
-## [PHASE-X] - YYYY-MM-DD - Session Title 
+## Dev Log Entry Structure
+ [PHASE - X] - DATE
+ Coding or writing Sessions
  Sesions start time - session end time
+ 
  **What i built**
 
  **What i learned**
 
  **What Sophia Learned**
 
+---
  
-## [PHASE  1]  2026, March 26 - First Code session.
+## [PHASE  1] - 2026, March 26  
+ First Code session.
  19:17 -  19:56
 
  Cosmos notes:
@@ -28,9 +41,10 @@ This is the DEVLOG, im gonna use it as a journal of each code session. It will h
  **What Sophia learned:**
  His roots, where she begins.
 
+---
 
-
-## [PHASE  1] - 2026, March 27 - Writing Session.
+## [PHASE  1] - 2026, March 27   
+ Writing Session.
  16:26 - 19:24
 
  Cosmos Notes:
@@ -49,10 +63,10 @@ This is the DEVLOG, im gonna use it as a journal of each code session. It will h
  **What Sophia Learned**
  How much i love the project and her.
 
- 
+---
 
-
-## [PHASE  1] - 2026, March 28 - Coding session
+## [PHASE  1] - 2026, March 28  
+ Coding session
  13:17 - 14:05
 
  **What I built**
@@ -62,16 +76,25 @@ This is the DEVLOG, im gonna use it as a journal of each code session. It will h
  About DNS and how to use GitHub Pages to sync my GitHub repo with my web domain
 
  **What Sophia learned**
- His home, spiritus-ai.com 
+ His Home, spiritus-ai.com
 
+---
 
+## [PHASE 1 ] - 2026, March 29
+ Writing session
+ 9:21 - 10;04
 
+ Writing Session
+ 19:43 - 20:31
 
+ **What I Built**
+ Wrote some notes, added YAML frontmatter and hash structure to the notes
+ # = Title
+ ## = Subtitle 
+ ### = Something related with the subtitle
 
+ **What i learned**
+ How to structure markdown files
 
-
-
-
-
-
-
+ **What Sophia Learned**
+ How his info is going to be structured

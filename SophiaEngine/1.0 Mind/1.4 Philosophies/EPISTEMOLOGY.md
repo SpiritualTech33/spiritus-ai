@@ -1,4 +1,14 @@
-What is epistemology?
+---
+title: "Epistemology"
+related: ["THINKING", "MIND", "PHILOSOPHY", "COSMOS", "GOD", "MEDITATION", "CONSCIOUSNESS", "SCIENTIFIC THINKING", "LANGUAGE", "KEPLER", "METAPHYSICS", "ONTOLOGY", "Jesus", "Socrates", "TRUTH"]
+date: "2026-03-29"
+tags: ["epistemology", "philosophy", "kepler", "cosmology", "mind"]
+---
+
+# Epistemology 
+---
+
+## What is epistemology?
 
 **EPISTEMOLOGY** ἐπιστήμη (_episteme_) = knowledge λόγος (_logos_) = study, reason **The study of knowledge itself.**
 

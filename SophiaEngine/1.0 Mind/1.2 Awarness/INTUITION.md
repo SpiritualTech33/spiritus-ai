@@ -1,3 +1,15 @@
+---
+title: "Intuition"
+related: ["Shu-Ha-Ri", "SOUL", "Sophia Instructions", "NOUS", "GOD", "METAPHYSICS", "MEDITATION", "PHILOSOPHY", "Socrates"]
+date: "2026-03-29"
+tags: ["intuition", "baseball", "programming", "athletics", "mind"]
+---
+
+# Intuition
+---
+
+## What is the intuition?
+
 Well, as is my custom, I'll start by asking questions—because questioning is the most fitting way to open yourself to knowledge. Questioning invariably leads to two things:
 
 1. An open acceptance that we don't know what we're asking about.
@@ -21,6 +33,10 @@ It sounds like a very mathematical process—and in part, it is—but human intu
 
 I feel this even more strongly when I'm running the bases. There's an inner voice that tells me when to steal. I intuitively sense when the pitcher is going to pick off first and when he won't. Deep down, I know—before he even makes the throw—that he's not going to turn to first, and that's when I go. Honestly, I don't know how I know it, but in the moment, I have zero doubt.
 
+---
+
+## Shu-Ha-RI
+
 Let's use a Japanese concept that illustrates this beautifully: **SHU-HA-RI**.
 
 These are the three stages of mastery in martial arts, which curiously apply to mastery in anything:
@@ -32,6 +48,10 @@ These are the three stages of mastery in martial arts, which curiously apply to 
 I think intuition is an extraordinarily powerful art when used responsibly. There are other kinds of intuition too—for example, the energetic kind. I'm very sensitive to people's electromagnetic fields, and intuitively I can tell which people carry positive energy and which don't. Things as simple as micro-expressions, word choice, or the topics they choose to talk about give me a lot of information about what kind of consciousness they have.
 
 There's an almost mystical, metaphysical dimension to intuition. I believe intuition isn't just pattern-matching similar data to predict an event. I feel that the deepest intuition—the kind I'm experiencing and talking about now—is a connection to something larger than ourselves. It's as if your consciousness is linked to some higher intelligence that has the ability to whisper information to you. Our task is to interpret those whispers.
+
+---
+
+## Conclussion
 
 That said, I also have to clarify that intuition is extremely subtle. It's not a loud noise that takes over your entire cognitive load—it's a gentle whisper that only appears in the silence of the mind. When your mind is cluttered with noise, worries, anxiety, negative desires, and emotions, it's difficult—almost impossible—to hear the voice of intuition. There must be mental clarity for intuition to speak without restriction. Eat well, train, meditate, study—and you'll notice how your intuition begins to flourish.
 

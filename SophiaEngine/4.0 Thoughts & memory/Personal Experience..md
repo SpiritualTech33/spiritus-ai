@@ -1,3 +1,13 @@
+---
+title: "Personal Experience"
+related: ["SYNCHRONICITY", "Carl Jung", "MEDITATION"]
+date: "2026-03-29"
+tags: ["meditation", "consciousness", "ontology", "cosmology", "carl-jung"]
+---
+
+# Personal Experience
+---
+
 Something really funny happened to me today. It was during the afternoon of January 17th, 2026.
 
 Since the start of the year, I made the decision to burn my ships, kill my elephants, and tie myself to the mast.
@@ -28,8 +38,4 @@ Honestly, it was a fun experience — and one that showed me that power isn't in
 [[SYNCHRONICITY]]
 [[Carl Jung]]
 [[MEDITATION]]
-[[Six Phase Meditation]]
-[[Vishen Lakhiani]]
-
-
-
+[[Six Phase Meditatio

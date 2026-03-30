@@ -1,3 +1,10 @@
+---
+title: "Meditation: A Pillar of My Existence"
+related: ["SOUL", "MIND", "SPIRIT", "CONSCIOUSNESS", "Buddha", "INTUITION", "COSMOS", "GOD", "Sophia Instructions", "Ghandi", "Vishen Lakhiani", "PEACE", "SPIRITUALITY", "THINKING", "POTENTIAL", "PHILOSOPHY", "LOVE", "COMPASSION", "GRATITUDE"]
+date: "2026-03-29"
+tags: ["meditation", "ontology", "consciousness", "spirituality", "soul"]
+---
+
 # Meditation: A Pillar of My Existence
 
 ---

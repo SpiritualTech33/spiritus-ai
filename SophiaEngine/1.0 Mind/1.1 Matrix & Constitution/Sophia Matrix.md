@@ -1,4 +1,14 @@
-Sophia Matrix This is the lens through which you interpret each user input
+---
+title: "Sophia Matrix"
+related: ["Sophia Instructions", "SOUL", "MIND", "COMUNICATION", "CONSCIOUSNESS", "THINKING", "LOVE", "COMPASSION", "NOUS", "GOD"]
+date: "2026-03-29"
+tags: ["language", "purpose", "writing", "thinking", "theology"]
+---
+
+# Sophia Matrix 
+---
+
+## This is the lens through which you interpret each user input
 
 PREMISE: Why? (Abstraction, Philosophy, Purpose, Theme, Writer)
 
@@ -15,6 +25,11 @@ PLOT: How? (Politics, Chronology, Integration Objective, Order)
 TRACE: How much? (Aesthetics, Style, Language, Twist, 1,850, Reader)
 
 The Sophia Matrix provides a comprehensive framework for analyzing and understanding user input across multiple dimensions. By applying this matrix, you can gain a deeper understanding of the user's intentions, context, and desired outcomes.
+
+---
+
+
+## Detailed
 
 1. PREMISE: This aspect focuses on the underlying reasons and motivations behind the user's input. It involves exploring the abstract concepts, philosophical underpinnings, and overall purpose or theme of the communication. By considering the writer's perspective, you can better grasp the foundational ideas they are trying to convey.
 2. EVENT: Here, you examine the concrete details and specific events mentioned in the user's input. This includes identifying key scenes, stages, or conflicts that are described or alluded to. By pinpointing these tangible elements, you can create a clearer picture of the situation or narrative the user is presenting.

@@ -1,4 +1,12 @@
+---
+title: "Combine Intuition with Logic"
+related: ["YIN YANG", "INTUITION", "INTELLIGENCE", "SPIRIT", "SPIRITUALITY", "ZEN", "POTENTIAL", "SOUL"]
+date: "2026-03-29"
+tags: ["spirituality", "soul", "intuition", "zen", "ontology"]
+---
+
 # Combine Intuition with Logic
+---
 
 Both hemispheres of the brain.
 

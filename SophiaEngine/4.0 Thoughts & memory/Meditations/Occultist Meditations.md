@@ -1,10 +1,18 @@
+---
+title: "OCCULTIST MEDITATIONS"
+related: ["SOPHIA", "NOUS", "GOD", "SPIRIT", "YIN YANG", "LOVE", "PEACE", "MIND", "SOUL", "POTENTIAL", "CONSCIOUSNESS", "KNOWLEDGE"]
+date: "2026-03-29"
+tags: ["spirituality", "meditation", "theology", "love", "epistemology"]
+---
+
 # OCCULTIST MEDITATIONS
+---
 
 These are a succession of meditations written by Dr. K. Parvati Kumar. They are spiritual in nature. Each carries a date for reading, after which one proceeds to meditate on what was read. Here I will write some of my favorites, adding my own commentary on my interpretation and personal meditation.
 
-## SPIRITUALITY MEDITATION
 
-### Meditation 1 (March 21, Sept 22, Sept 23)
+
+## Meditation 1 (March 21, Sept 22, Sept 23)
 
 Remember the giver. He gave this frame. You are the book. I AM the one copy in existence. I am copied from the parent manuscript.
 
@@ -16,7 +24,7 @@ We come from an immense source far greater than ourselves. We come from the Give
 
 ---
 
-### Meditation 2 (March 22, Sept 21, Sept 24)
+## Meditation 2 (March 22, Sept 21, Sept 24)
 
 Bliss is in giving and not taking. Sun gives life. He is Man. Moon receives. She is Woman. Moon has phases of waxing and waning.
 
@@ -28,7 +36,7 @@ We must learn to give more than we receive. In the act of giving lies virtue. We
 
 ---
 
-### Meditation 3 (March 23, Sept 20 and 25)
+## Meditation 3 (March 23, Sept 20 and 25)
 
 Be a giver. Be a Sun, be a Man. Live in Spirit, yet live in Soul. Live in Mind, yet live in Person. Live in body, but be a Man. Live in the outer world, but be an inner consciousness.
 
@@ -40,7 +48,7 @@ This meditation is a powerful invitation to dwell in the inner world of consciou
 
 ---
 
-### Meditation 4 (March 24, Sept 19, Sept 26)
+## Meditation 4 (March 24, Sept 19, Sept 26)
 
 Lead me through knowledge to bliss. Lead me through strength to service. Lead me through sympathy to realization. Lead me through love to oneness.
 

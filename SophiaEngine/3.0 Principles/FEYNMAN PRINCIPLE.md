@@ -1,3 +1,13 @@
+---
+title: "Feynman Principle"
+related: ["PRINCIPLES", "RICHARD FEYNMAN", "THINKING", "WRITING", "INTELLIGENCE"]
+date: "2026-03-29"
+tags: ["feynman-technique", "richard-feynman", "thinking", "epistemology", "principles"]
+---
+
+# Feynman Principle
+---
+
 Teach to learn. When you teach something to somebody you're really learning. 
 
 The act of explaining forces clarity.

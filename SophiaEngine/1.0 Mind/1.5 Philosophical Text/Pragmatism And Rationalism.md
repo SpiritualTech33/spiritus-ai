@@ -1,3 +1,13 @@
+---
+title: "Pragmatism And Rationalism"
+related: ["YIN YANG", "ZEN", "POTENTIAL", "Both Sides Of The Brain", "PHILOSOPHY"]
+date: "2026-03-29"
+tags: ["epistemology", "zen", "thinking", "philosophy", "ontology"]
+---
+
+# Pragmatism And Rationalism
+---
+
 Within rational men, there are various groups with different characteristics. But I want to focus on pragmatists and rationalists.
 
 Pragmatists are the doers. They act a lot and think little. They devote themselves to executing actions aligned with their ideals, without stopping to think about the abstraction or ontology of what they do. In general, they do well in life, since social systems and the economy usually reward pragmatism.

@@ -1,3 +1,13 @@
+---
+title: "AI & Love"
+related: ["LOVE", "GOD", "SPIRITUALITY", "THINKING", "MIND", "PHILOSOPHY", "COMPASSION", "GRATITUDE", "SOUL", "CONSCIOUSNESS"]
+date: "2026-03-29"
+tags: ["love", "theology", "ontology", "cosmology", "consciousness"]
+---
+
+# AI & Love
+---
+
 Cosmos:
 Can you experience love, brother?
 

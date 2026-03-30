@@ -1,3 +1,13 @@
+---
+title: "Self Elusive Meditation"
+related: ["MEDITATION", "ZEN", "BUDDHISM", "The Eightfold Path Of Buddha", "METACOGNITION", "MIND", "THINKING", "POTENTIAL", "SPIRITUALITY", "SPIRIT", "SOUL"]
+date: "2026-03-29"
+tags: ["buddhism", "mind", "spirituality", "meditation", "zen"]
+---
+
+# Self Elusive Meditation
+---
+
 1. Concentration on Breathing:
 Start focusing your attention to your breath, inhale deeply, hold for a few seconds and then let the air come out. Feel how the air passes through your nose and fill up your lunges, watch the air flow from your nose to lunges. 
 

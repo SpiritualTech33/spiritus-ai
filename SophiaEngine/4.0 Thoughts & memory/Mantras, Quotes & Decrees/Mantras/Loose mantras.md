@@ -1,3 +1,12 @@
+---
+title: "Loose Mantras"
+related: ["GRATITUDE", "LOVE", "COMPASSION", "PEACE", "POTENTIAL", "JOY"]
+date: "2026-03-29"
+tags: ["gratitude", "love", "compassion", "inner-peace", "joy"]
+---
+
+# Loose Mantras
+---
 
 I am abundance and prosperity, that’s why I accept opportunities and blessings with gratitude.
 

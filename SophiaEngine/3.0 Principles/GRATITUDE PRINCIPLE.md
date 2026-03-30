@@ -1,3 +1,12 @@
+---
+title: "Gratitude Principle"
+related: ["PRINCIPLES", "SPIRITUALITY", "GRATITUDE", "MEDITATION", "GOD", "COSMOS", "LOVE", "JOY"]
+date: "2026-03-29"
+tags: ["gratitude", "athletics", "mind", "theology", "love"]
+---
+
+# Gratitude Principle
+---
 
 Give more attention to the good things that happen to you than to the bad ones.
 
