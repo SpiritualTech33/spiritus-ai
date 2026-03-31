@@ -82,7 +82,7 @@ Building Phase 1
 
 ## [PHASE 1 ] - 2026, March 29
  Writing session
- 9:21 - 10;04
+ 9:21 - 10:04
 
  Writing Session
  19:43 - 20:31
@@ -98,3 +98,10 @@ Building Phase 1
 
  **What Sophia Learned**
  How his info is going to be structured
+
+## [PHASE 1] - 2026, March 31
+ Writing session
+ 14:22 - 16:16
+
+ **What i built**
+ I add a DECREES note, a purpose note and write Jesus.md note.
