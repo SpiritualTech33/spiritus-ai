@@ -1,5 +1,0 @@
-[[PROGRAMATION]]
-[[GOD]]
-[[ZEN]]
-[[The Eightfold Path Of Buddha]]
-[[SPIRITUALITY]]

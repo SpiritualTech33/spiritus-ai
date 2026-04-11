@@ -1,6 +1,0 @@
-
-
-[[MEDITATION]]
-[[GOD]]
-[[METAPHYSICS]]
-[[SPIRITUALITY]]

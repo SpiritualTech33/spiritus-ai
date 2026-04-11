@@ -105,3 +105,6 @@ Building Phase 1
 
  **What i built**
  I add a DECREES note, a purpose note and write Jesus.md note.
+
+## [PHASE - 1] April-11-2026
+SophiaEngine folder deleted from SpiritusAI folder. Now SophiaEngine lives as an independent repo on GitHub.

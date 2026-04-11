@@ -1,4 +1,0 @@
-
-
-[[GOD]]
-[[PHILOSOPHY]]

@@ -1,5 +1,0 @@
-
-
-[[Carl Jung]]
-[[COSMOS]]
-[[GOD]]
