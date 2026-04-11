@@ -1,4 +1,4 @@
-# spiritus-ai
+# SpiritusAI
 
 ![spiritus-ai](https://raw.githubusercontent.com/SpiritualTech33/Images/master/spiritus_ai_logo.JPEG)
 

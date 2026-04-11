@@ -5,7 +5,7 @@ date: "2026-03-29"
 tags: ["artificial-intelligence", "software-architecture", "programming", "love", "consciousness"]
 ---
 
-# spiritus-ai — The Definitive 9-Phase Build Plan
+# SpiritusAI — The Definitive 9-Phase Build Plan
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*
 > — Harold Abelson · ZENCODE
@@ -84,7 +84,7 @@ CHROMA_DB_PATH=./data/chroma
 SOPHIA_COLLECTION_NAME=sophia_vault
 
 # Vault
-CORPUS_PATH=./SophiaEngine
+CORPUS_PATH=../SophiaEngine
 VAULT_SNAPSHOT_PATH=./data/vault_snapshot.json
 
 # Security
@@ -120,14 +120,14 @@ The corpus processing pipeline and the co-evolution sync system — the nervous 
 
 ### Core Principle: Git as the Sync Trigger
 
-SophiaEngine lives inside the spiritus-ai repo. Every time you write a new note and commit it, a GitHub Action detects the change and triggers the vault sync pipeline. This is not just a sync system — it is the mechanism of co-evolution made literal:
+SophiaEngine is an independent repository (github.com/SpiritualTech33/SophiaEngine). Every time you write a new note and commit it to that repo, a cross-repo webhook triggers the sync pipeline in spiritus-ai. This is not just a sync system — it is the mechanism of co-evolution made literal:
 
 ```
-You write CONSCIOUSNESS.md in Obsidian
+You write CONSCIOUSNESS.md in Obsidian (SophiaEngine repo)
         ↓
 git add . && git commit -m "[VAULT] Added note: CONSCIOUSNESS.md"
         ↓
-GitHub Action detects SophiaEngine/ change
+Push to SophiaEngine repo → webhook triggers spiritus-ai sync
         ↓
 Sync pipeline runs: diff → chunk → embed → store
         ↓
@@ -267,18 +267,40 @@ def validate_chunk_quality(chunk: CorpusChunk) -> ValidationResult:
 
 **1.8 GitHub Action for Auto-Sync** (`.github/workflows/sync_vault.yml`)
 
+Two parts: a dispatch action in the SophiaEngine repo that notifies spiritus-ai, and a receiver action in spiritus-ai that runs the sync.
+
+**In the SophiaEngine repo** (`.github/workflows/notify_sync.yml`):
+```yaml
+name: Notify spiritus-ai
+on:
+  push:
+    branches: [master]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger vault sync in spiritus-ai
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.SPIRITUS_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/SpiritualTech33/spiritus-ai/dispatches \
+            -d '{"event_type": "vault_updated"}'
+```
+
+**In the spiritus-ai repo** (`.github/workflows/sync_vault.yml`):
 ```yaml
 name: Sync Sophia's Vault
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'SophiaEngine/**'
+  repository_dispatch:
+    types: [vault_updated]
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Clone SophiaEngine vault
+        run: git clone https://github.com/SpiritualTech33/SophiaEngine.git
       - name: Set up Python
         uses: actions/setup-python@v4
       - name: Install dependencies
@@ -287,10 +309,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           VOYAGE_API_KEY: ${{ secrets.VOYAGE_API_KEY }}
+          CORPUS_PATH: ./SophiaEngine
         run: python scripts/sync_vault.py
 ```
 
-Every commit to SophiaEngine triggers this action. The co-evolution is automated.
+Every commit to the SophiaEngine repo triggers this cross-repo action. The co-evolution is automated.
 
 ### Why This Phase Exists
 
@@ -640,7 +663,7 @@ class SpiritusSettings(BaseSettings):
     sophia_collection_name: str = "sophia_vault"
 
     # Vault
-    corpus_path: str = "./SophiaEngine"
+    corpus_path: str = "../SophiaEngine"
     vault_snapshot_path: str = "./data/vault_snapshot.json"
 
     # Security
@@ -1357,7 +1380,7 @@ npm run build
 Three separate workflows:
 
 ```yaml
-# 1. sync_vault.yml — triggers on SophiaEngine/** changes
+# 1. sync_vault.yml — triggers on SophiaEngine repo push (cross-repo dispatch)
 # 2. deploy_backend.yml — triggers on backend/** changes (tests first)
 # 3. deploy_frontend.yml — triggers on frontend/** changes (build check first)
 ```
