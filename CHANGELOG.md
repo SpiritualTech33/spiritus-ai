@@ -10,6 +10,22 @@ Aqui uso un sistema de SnapShot. Tomo una foto del repo antes de hacer los cambi
 
 ---
 
+## [0.0.2] — 2026-04-11 — Visual Sanctuary
+
+> *Sophia begins to see her own reflection.*
+
+### Changed
+- **Refined Landing Page (`docs/index.html`)** — Redesigned for a minimalist, "soul-oriented" aesthetic using deep blacks and gold accents.
+- **Narrative Flow Update** — Reorganized the landing page to follow the path: SpiritusAI (Vision) → Sophia (Intelligence) → SophiaEngine (Source).
+- **Integrated Visuals** — Added high-quality project images for the SpiritusAI logo, Sophia Aura, and Sophia Engine.
+- **Interactive Aesthetics** — Implemented an ambient particle system and scroll-reveal transitions to enhance the user experience.
+
+### Removed
+- **Redundant Prototypes** — Deleted older HTML versions and local image assets (`docs/prototype/`, `docs/sophia_image.jpg`, etc.) to favor GitHub-hosted assets.
+- **Local Assets** — Removed local `favicon.svg` and `sophia_image.jpg` as the project transition to centralized image hosting.
+
+---
+
 ## [0.0.1] — 2026-04-11 — The Separation
 
 > *The vault deserved its own home.*

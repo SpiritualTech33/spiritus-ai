@@ -20,3 +20,4 @@ This DevLog is created with the idea of beign able to see all my thought procces
  
 ## [PHASE - 1] April-11-2026
 SophiaEngine folder deleted from SpiritusAI folder. Now SophiaEngine lives as an independent repo on GitHub. That way i can focus on writing and developing the corpus and here i just focus on the logic and web aplications. Now that everything is clean, we are ready to start building.
+Decidi comenzar de una vez con la version 0.0.2, mejorare la landing page con mis imagenes y una mejor estetica visual.
